@@ -1,0 +1,174 @@
+Column |Name                                   |Description                                                           |Links to or Called in
+  0    |ID                                     |Main ID                                                               |SQL database files
+  1    |CreationTypeEnum                       |Type of entity                                                        |SQL database files
+  2    |description                            |Description of entity, may have lots of clues                         |
+  3    |localizedTextIdName                    |Name displayed in game, uses an ID so this works for all languages    |Language packs: en-US.bin, fr-FR.bin, and de-DE.bin: Column 0
+  4    |creature2AoiSizeEnum                   |                                                                      |
+  5    |unitRaceId                             |                                                                      |
+  6    |creature2DifficultyId                  |                                                                      |
+  7    |creature2ArcheTypeId                   |                                                                      |
+  8    |creature2TierId                        |                                                                      |
+  9    |creature2ModelInfoId                   |                                                                      |
+ 10    |creature2DisplayGroupId                |                                                                      |
+ 11    |creature2OutfitGroupId                 |                                                                      |
+ 12    |prerequisiteIdVisibility               |                                                                      |
+ 13    |modelScale                             |                                                                      |
+ 14    |spell4IdActivate00                     |                                                                      |
+ 15    |spell4IdActivate01                     |                                                                      |
+ 16    |spell4IdActivate02                     |                                                                      |
+ 17    |spell4IdActivate03                     |                                                                      |
+ 18    |prerequisiteIdActivateSpell00          |                                                                      |
+ 19    |prerequisiteIdActivateSpell01          |                                                                      |
+ 20    |prerequisiteIdActivateSpell02          |                                                                      |
+ 21    |prerequisiteIdActivateSpell03          |                                                                      |
+ 22    |activateSpellCastTime                  |                                                                      |
+ 23    |activateSpellMinRange                  |                                                                      |
+ 24    |activateSpellMaxRange                  |                                                                      |
+ 25    |localizedTextIdActivateSpellText       |                                                                      |
+ 26    |spell4VisualGroupIdActivateSpell       |                                                                      |
+ 27    |trainerClassIdMask                     |                                                                      |
+ 28    |tradeSkillIdTrainer                    |                                                                      |
+ 29    |tradeSkillIdStation                    |                                                                      |
+ 30    |questIdGiven00                         |ID of  1st(?) quest given                                             |Quest2: Column 0
+ 31    |questIdGiven01                         |ID of  2nd(?) quest given                                             |Quest2: Column 0
+ 32    |questIdGiven02                         |ID of  3rd(?) quest given                                             |Quest2: Column 0
+ 33    |questIdGiven03                         |ID of  4th(?) quest given                                             |Quest2: Column 0
+ 34    |questIdGiven04                         |ID of  5th(?) quest given                                             |Quest2: Column 0
+ 35    |questIdGiven05                         |ID of  6th(?) quest given                                             |Quest2: Column 0
+ 36    |questIdGiven06                         |ID of  7th(?) quest given                                             |Quest2: Column 0
+ 37    |questIdGiven07                         |ID of  8th(?) quest given                                             |Quest2: Column 0
+ 38    |questIdGiven08                         |ID of  9th(?) quest given                                             |Quest2: Column 0
+ 39    |questIdGiven09                         |ID of 10th(?) quest given                                             |Quest2: Column 0
+ 40    |questIdGiven10                         |ID of 11th(?) quest given                                             |Quest2: Column 0
+ 41    |questIdGiven11                         |ID of 12th(?) quest given                                             |Quest2: Column 0
+ 42    |questIdGiven12                         |ID of 13th(?) quest given                                             |Quest2: Column 0
+ 43    |questIdGiven13                         |ID of 14th(?) quest given                                             |Quest2: Column 0
+ 44    |questIdGiven14                         |ID of 15th(?) quest given                                             |Quest2: Column 0
+ 45    |questIdGiven15                         |ID of 16th(?) quest given                                             |Quest2: Column 0
+ 46    |questIdGiven16                         |ID of 17th(?) quest given                                             |Quest2: Column 0
+ 47    |questIdGiven17                         |ID of 18th(?) quest given                                             |Quest2: Column 0
+ 48    |questIdGiven18                         |ID of 19th(?) quest given                                             |Quest2: Column 0
+ 49    |questIdGiven19                         |ID of 20th(?) quest given                                             |Quest2: Column 0
+ 50    |questIdGiven20                         |ID of 21st(?) quest given                                             |Quest2: Column 0
+ 51    |questIdGiven21                         |ID of 22nd(?) quest given                                             |Quest2: Column 0
+ 52    |questIdGiven22                         |ID of 23rd(?) quest given                                             |Quest2: Column 0
+ 53    |questIdGiven23                         |ID of 24th(?) quest given                                             |Quest2: Column 0
+ 54    |questIdGiven24                         |ID of 25th(?) quest given                                             |Quest2: Column 0
+ 55    |questIdReceive00                       |
+ 56    |questIdReceive01                       |
+ 57    |questIdReceive02                       |
+ 58    |questIdReceive03                       |
+ 59    |questIdReceive04                       |
+ 60    |questIdReceive05                       |
+ 61    |questIdReceive06                       |
+ 62    |questIdReceive07                       |
+ 63    |questIdReceive08                       |
+ 64    |questIdReceive09                       |
+ 65    |questIdReceive10                       |
+ 66    |questIdReceive11                       |
+ 67    |questIdReceive12                       |
+ 68    |questIdReceive13                       |
+ 69    |questIdReceive14                       |
+ 70    |questIdReceive15                       |
+ 71    |questIdReceive16                       |
+ 72    |questIdReceive17                       |
+ 73    |questIdReceive18                       |
+ 74    |questIdReceive19                       |
+ 75    |questIdReceive20                       |
+ 76    |questIdReceive21                       |
+ 77    |questIdReceive22                       |
+ 78    |questIdReceive23                       |
+ 79    |questIdReceive24                       |
+ 80    |questAnimStateId                       |
+ 81    |prerequisiteIdAnimState                |
+ 82    |questAnimObjectiveIndex                |
+ 83    |flags                                  |
+ 84    |uiFlags                                |
+ 85    |activationFlags                        |
+ 86    |aimYawConstraint                       |
+ 87    |aimPitchUpConstraint                   |
+ 88    |aimPitchDownConstraint                 |
+ 89    |item2IdMTXKey00                        |
+ 90    |item2IdMTXKey01                        |
+ 91    |creature2FamilyId                      |
+ 92    |creature2TractId                       |
+ 93    |bindPointId                            |
+ 94    |resourceConversionGroupId              |
+ 95    |taxiNodeId                             |
+ 96    |pathScientistExperimentationId         |
+ 97    |datacubeId                             |
+ 98    |datacubeVolumeId                       |
+ 99    |factionId                              |
+100    |minLevel                               |
+101    |maxLevel                               | 
+102    |rescanCooldownTypeEnum                 |
+103    |rescanCooldown                         |
+104    |creature2AffiliationId                 |
+105    |itemIdDisplayItemRight                 |
+106    |soundEventIdAggro                      |
+107    |soundEventIdAware                      |
+108    |soundImpactDescriptionIdOrigin         |
+109    |soundImpactDescriptionIdTarget         |
+110    |soundSwitchIdModel                     |
+111    |soundCombatLoopId                      |
+112    |randomTextLineIdGoodbye00              |
+113    |randomTextLineIdGoodbye01              |
+114    |randomTextLineIdGoodbye02              |
+115    |randomTextLineIdGoodbye03              |
+116    |randomTextLineIdGoodbye04              |
+117    |randomTextLineIdGoodbye05              |
+118    |randomTextLineIdGoodbye06              |
+119    |randomTextLineIdGoodbye07              |
+120    |randomTextLineIdGoodbye08              |
+121    |randomTextLineIdGoodbye09              |
+122    |randomTextLineIdHello00                |
+123    |randomTextLineIdHello01                |
+124    |randomTextLineIdHello02                |
+125    |randomTextLineIdHello03                |
+126    |randomTextLineIdHello04                |
+127    |randomTextLineIdHello05                |
+128    |randomTextLineIdHello06                |
+129    |randomTextLineIdHello07                |
+130    |randomTextLineIdHello08                |
+131    |randomTextLineIdHello09                |
+132    |randomTextLineIdIntro                  |
+133    |localizedTextIdDefaultGreeting         |
+134    |randomTextLineIdReturn00               |
+135    |randomTextLineIdReturn01               |
+136    |randomTextLineIdReturn02               |
+137    |randomTextLineIdReturn03               |
+138    |randomTextLineIdReturn04               |
+139    |randomTextLineIdReturn05               |
+140    |randomTextLineIdReturn06               |
+141    |randomTextLineIdReturn07               |
+142    |randomTextLineIdReturn08               |
+143    |randomTextLineIdReturn09               |
+144    |localizedTextIdReturnGreeting          |
+145    |randomTextLineIdCompleted              |
+146    |localizedTextIdCompletedGreeting       |
+147    |unitVoiceTypeId                        |
+148    |gossipSetId                            |
+149    |unitVisualTypeId                       |
+150    |spell4VisualGroupIdAttached            |
+151    |genericStringGroupsIdInteractContext   |
+152    |creature2ActionSetId                   |
+153    |creature2ActionTextId                  |
+154    |pathMissionIdSoldier                   |
+155    |instancePortalId                       |
+156    |modelSequenceIdAnimationPriority00     |
+157    |modelSequenceIdAnimationPriority01     |
+158    |modelSequenceIdAnimationPriority02     |
+159    |modelSequenceIdAnimationPriority03     |
+160    |modelSequenceIdAnimationPriority04     |
+161    |prerequisiteIdPriority00               |
+162    |prerequisiteIdPriority01               |
+163    |prerequisiteIdPriority02               |
+164    |prerequisiteIdPriority03               |
+165    |prerequisiteIdPriority04               |
+166    |donutDrawDistance                      |
+167    |archiveArticleIdInteractUnlock         |
+168    |tradeskillHarvestingInfoId             |
+169    |ccStateImmunitiesFlags                 |
+170    |creature2ResistId                      |
+171    |unitVehicleId                          |
+172    |creature2DisplayInfoIdPortraitOverride |
