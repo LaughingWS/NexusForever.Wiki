@@ -1,0 +1,35 @@
+Column |Name                   |Description                                                                               |Links to or Called in                                         |Notes
+ 0     |ID                     |
+ 1     |creature2IdPortrait    |
+ 2     |iconAssetPath          |
+ 3     |localizedTextIdTitle   |
+ 4     |localizedTextIdText00  |
+ 5     |localizedTextIdText01  |
+ 6     |localizedTextIdText02  |
+ 7     |localizedTextIdText03  |
+ 8     |localizedTextIdText04  |
+ 9     |localizedTextIdText05  |
+10     |archiveEntryId00       |
+11     |archiveEntryId01       |
+12     |archiveEntryId02       |
+13     |archiveEntryId03       |
+14     |archiveEntryId04       |
+15     |archiveEntryId05       |
+16     |archiveEntryId06       |
+17     |archiveEntryId07       |
+18     |archiveEntryId08       |
+19     |archiveEntryId09       |
+20     |archiveEntryId10       |
+21     |archiveEntryId11       |
+22     |archiveEntryId12       |
+23     |archiveEntryId13       |
+24     |archiveEntryId14       |
+25     |archiveEntryId15       |
+26     |archiveArticleFlags    |
+27     |archiveCategoryId00    |
+28     |archiveCategoryId01    |
+29     |archiveCategoryId02    |
+30     |localizedTextIdToolTip |
+31     |worldZoneId            |
+32     |characterTitleIdReward |
+33     |linkName               |

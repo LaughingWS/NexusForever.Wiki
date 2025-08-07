@@ -1,0 +1,22 @@
+Column |Name                           |Description                                                                               |Links to or Called in                                         |Notes
+ 0     |ID                             |
+ 1     |localizedTextIdHeading         |
+ 2     |localizedTextIdText00          |
+ 3     |localizedTextIdText01          |
+ 4     |localizedTextIdText02          |
+ 5     |localizedTextIdText03          |
+ 6     |localizedTextIdText04          |
+ 7     |localizedTextIdText05          |
+ 8     |localizedTextIdTextScientist00 |
+ 9     |localizedTextIdTextScientist01 |
+10     |localizedTextIdTextScientist02 |
+11     |localizedTextIdTextScientist03 |
+12     |localizedTextIdTextScientist04 |
+13     |localizedTextIdTextScientist05 |
+14     |creature2IdPortrait            |
+15     |iconAssetPath                  |
+16     |inlineAssetPath                |
+17     |archiveEntryTypeEnum           |
+18     |archiveEntryFlags              |
+19     |archiveEntryHeaderEnum         |
+20     |characterTitleIdReward         |

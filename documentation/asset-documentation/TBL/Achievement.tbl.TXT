@@ -1,0 +1,24 @@
+Column |Name                       |Description                                                                               |Links to or Called in                                         |Notes
+ 0     |ID                         |
+ 1     |achievementTypeId          |
+ 2     |achievementCategoryId      |
+ 3     |flags                      |
+ 4     |worldZoneId                |
+ 5     |localizedTextIdTitle       |
+ 6     |localizedTextIdDesc        |
+ 7     |localizedTextIdProgress    |
+ 8     |percCompletionToShow       |
+ 9     |objectId                   |
+10     |objectIdAlt                |
+11     |value                      |
+12     |characterTitleId           |
+13     |prerequisiteId             |
+14     |prerequisiteIdServer       |
+15     |prerequisiteIdObjective    |
+16     |prerequisiteIdObjectiveAlt |
+17     |achievementIdParentTier    |    
+18     |orderIndex                 |
+19     |achievementGroupId         |
+20     |achievementSubGroupId      |
+21     |achievementPointEnum       |
+22     |steamAchievementName       |

@@ -1,0 +1,26 @@
+Column |Name           |Description                                                                               |Links to or Called in                                         |Notes
+ 0     |ID             |
+ 1     |shortcutType00 |
+ 2     |shortcutType01 |
+ 3     |shortcutType02 |
+ 4     |shortcutType03 |
+ 5     |shortcutType04 |
+ 6     |shortcutType05 |
+ 7     |shortcutType06 |
+ 8     |shortcutType07 |
+ 9     |shortcutType08 |
+10     |shortcutType09 |
+11     |shortcutType10 |
+12     |shortcutType11 |
+13     |objectId00     |
+14     |objectId01     |
+15     |objectId02     |
+16     |objectId03     |
+17     |objectId04     |
+18     |objectId05     |
+19     |objectId06     |
+20     |objectId07     |
+21     |objectId08     |
+22     |objectId09     |
+23     |objectId10     |
+24     |objectId11     |

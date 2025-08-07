@@ -1,0 +1,137 @@
+Column |Name                           |Description                                                                               |Links to or Called in                                         |Notes
+  0    |ID                             |
+  1    |requiredAttributeAmount00      |
+  2    |requiredAttributeAmount01      |
+  3    |requiredAttributeAmount02      |
+  4    |requiredAttributeAmount03      |
+  5    |requiredAttributeAmount04      |
+  6    |requiredAttributeAmount05      |
+  7    |requiredAttributeAmount06      |
+  8    |requiredAttributeAmount07      |
+  9    |requiredAttributeAmount08      |
+ 10    |requiredAttributeAmount09      |
+ 11    |requiredAttributeAmount10      |
+ 12    |requiredAttributeAmount11      |
+ 13    |requiredAttributeAmount12      |
+ 14    |requiredAttributeAmount13      |
+ 15    |requiredAttributeAmount14      |
+ 16    |requiredAttributeAmount15      |
+ 17    |requiredAttributeAmount16      |
+ 18    |requiredAttributeAmount17      |
+ 19    |requiredAttributeAmount18      |
+ 20    |requiredAttributeAmount19      |
+ 21    |requiredAttributeAmount20      |
+ 22    |requiredAttributeAmount21      |
+ 23    |requiredAttributeAmount22      |
+ 24    |requiredAttributeAmount23      |
+ 25    |requiredAttributeAmount24      |
+ 26    |requiredAttributeAmount25      |
+ 27    |requiredAttributeAmount26      |
+ 28    |requiredAttributeAmount27      |
+ 29    |requiredAttributeAmount28      |
+ 30    |requiredAttributeAmount29      |
+ 31    |requiredAttributeAmount30      |
+ 32    |requiredAttributeAmount31      |
+ 33    |requiredAttributeAmount32      |
+ 34    |requiredAttributeAmount33      |
+ 35    |requiredAttributeAmount34      |
+ 36    |requiredAttributeAmount35      |
+ 37    |requiredAttributeAmount36      |
+ 38    |requiredAttributeAmount37      |
+ 39    |requiredAttributeAmount38      |
+ 40    |requiredAttributeAmount39      |
+ 41    |requiredAttributeAmount40      |
+ 42    |requiredAttributeAmount41      |
+ 43    |requiredAttributeAmount42      |
+ 44    |requiredAttributeAmount43      |
+ 45    |requiredAttributeAmount44      |
+ 46    |unitProperty2IdSecondaryStat00 |
+ 47    |unitProperty2IdSecondaryStat01 |
+ 48    |unitProperty2IdSecondaryStat02 |
+ 49    |unitProperty2IdSecondaryStat03 |
+ 50    |unitProperty2IdSecondaryStat04 |
+ 51    |unitProperty2IdSecondaryStat05 |
+ 52    |unitProperty2IdSecondaryStat06 |
+ 53    |unitProperty2IdSecondaryStat07 |
+ 54    |unitProperty2IdSecondaryStat08 |
+ 55    |unitProperty2IdSecondaryStat09 |
+ 56    |unitProperty2IdSecondaryStat10 |
+ 57    |unitProperty2IdSecondaryStat11 |
+ 58    |unitProperty2IdSecondaryStat12 |
+ 59    |unitProperty2IdSecondaryStat13 |
+ 60    |unitProperty2IdSecondaryStat14 |
+ 61    |unitProperty2IdSecondaryStat15 |
+ 62    |unitProperty2IdSecondaryStat16 |
+ 63    |unitProperty2IdSecondaryStat17 |
+ 64    |unitProperty2IdSecondaryStat18 |
+ 65    |unitProperty2IdSecondaryStat19 |
+ 66    |unitProperty2IdSecondaryStat20 |
+ 67    |unitProperty2IdSecondaryStat21 |
+ 68    |unitProperty2IdSecondaryStat22 |
+ 69    |unitProperty2IdSecondaryStat23 |
+ 70    |unitProperty2IdSecondaryStat24 |
+ 71    |unitProperty2IdSecondaryStat25 |
+ 72    |unitProperty2IdSecondaryStat26 |
+ 73    |unitProperty2IdSecondaryStat27 |
+ 74    |unitProperty2IdSecondaryStat28 |
+ 75    |unitProperty2IdSecondaryStat29 |
+ 76    |unitProperty2IdSecondaryStat30 |
+ 77    |unitProperty2IdSecondaryStat31 |
+ 78    |unitProperty2IdSecondaryStat32 |
+ 79    |unitProperty2IdSecondaryStat33 |
+ 80    |unitProperty2IdSecondaryStat34 |
+ 81    |unitProperty2IdSecondaryStat35 |
+ 82    |unitProperty2IdSecondaryStat36 |
+ 83    |unitProperty2IdSecondaryStat37 |
+ 84    |unitProperty2IdSecondaryStat38 |
+ 85    |unitProperty2IdSecondaryStat39 |
+ 86    |unitProperty2IdSecondaryStat40 |
+ 87    |unitProperty2IdSecondaryStat41 |
+ 88    |unitProperty2IdSecondaryStat42 |
+ 89    |unitProperty2IdSecondaryStat43 |
+ 90    |unitProperty2IdSecondaryStat44 |
+ 91    |modifier00                     |
+ 92    |modifier01                     |
+ 93    |modifier02                     |
+ 94    |modifier03                     |
+ 95    |modifier04                     |
+ 96    |modifier05                     |
+ 97    |modifier06                     |
+ 98    |modifier07                     |
+ 99    |modifier08                     |
+100    |modifier09                     |
+101    |modifier10                     |
+102    |modifier11                     |
+103    |modifier12                     |
+104    |modifier13                     |
+105    |modifier14                     |
+106    |modifier15                     |
+107    |modifier16                     |
+108    |modifier17                     |
+109    |modifier18                     |
+110    |modifier19                     |
+111    |modifier20                     |
+112    |modifier21                     |
+113    |modifier22                     |
+114    |modifier23                     |
+115    |modifier24                     |
+116    |modifier25                     |
+117    |modifier26                     |
+118    |modifier27                     |
+119    |modifier28                     |
+120    |modifier29                     |
+121    |modifier30                     |
+122    |modifier31                     |
+123    |modifier32                     |
+124    |modifier33                     |
+125    |modifier34                     |
+126    |modifier35                     |
+127    |modifier36                     |
+128    |modifier37                     |
+129    |modifier38                     |
+130    |modifier39                     |
+131    |modifier40                     |
+132    |modifier41                     |
+133    |modifier42                     |
+134    |modifier43                     |
+135    |modifier44                     |

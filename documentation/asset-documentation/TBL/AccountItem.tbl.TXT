@@ -1,0 +1,18 @@
+Column |Name                         |Description            |Links to or Called in                                         |Notes
+ 0     |ID                           |
+ 1     |flags                        |
+ 2     |item2Id                      |
+ 3     |entitlementId                |
+ 4     |entitlementCount             |
+ 5     |entitlementScopeEnum         |
+ 6     |instantEventEnum             |
+ 7     |accountCurrencyEnum          |
+ 8     |accountCurrencyAmount        |
+ 9     |buttonIcon                   |
+10     |prerequisiteId               |
+11     |accountItemCooldownGroupId   |
+12     |storeDisplayInfoId           |
+13     |storeIdentifierUpsell        |
+14     |creature2DisplayGroupIdGacha |
+15     |entitlementIdPurchase        |
+16     |genericUnlockSetId           |

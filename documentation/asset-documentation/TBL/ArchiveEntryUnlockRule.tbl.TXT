@@ -1,0 +1,11 @@
+Column |Name                        |Description                                                                               |Links to or Called in                                         |Notes
+0      |ID                          |
+1      |archiveEntryId              |
+2      |archiveEntryUnlockRuleEnum  |
+3      |archiveEntryUnlockRuleFlags |
+4      |object00                    |
+5      |object01                    |
+6      |object02                    |
+7      |object03                    |
+8      |object04                    |
+9      |object05                    |

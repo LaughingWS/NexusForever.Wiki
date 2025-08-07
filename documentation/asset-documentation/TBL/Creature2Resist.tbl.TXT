@@ -1,0 +1,5 @@
+Column |Name                     |Description                                                                       |Links to or Called in           |Notes
+0      |ID                       |Main ID                                                                           |Called in Creature2: Column 170 |
+1      |resistPhysicalMultiplier |Multiplier for Physical damage. Physical damage is dealt by Warrior? and Stalker? |                                |We need to test are all skills Physical damage
+2      |resistTechMultiplier     |Multiplier for Tech damage.     Tech damage is dealt by Medic? and Engineer?      |                                |We need to test are all skills Tech damage
+3      |resistMagicMultiplier    |Multiplier for Magic damage.    Magic damage is dealt by Esper? and Spellslinger? |                                |We need to test are all skills Magic damage

@@ -1,0 +1,12 @@
+Column |Name                      |Description                                                                               |Links to or Called in                                         |Notes
+ 0     |ID                        |
+ 1     |requiredAttributeAmount00 |
+ 2     |requiredAttributeAmount01 |
+ 3     |requiredAttributeAmount02 |
+ 4     |requiredAttributeAmount03 |
+ 5     |requiredAttributeAmount04 |
+ 6     |requiredAttributeAmount05 |
+ 7     |requiredAttributeAmount06 |
+ 8     |requiredAttributeAmount07 |
+ 9     |requiredAttributeAmount08 |
+10     |requiredAttributeAmount09 |

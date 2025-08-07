@@ -1,0 +1,5 @@
+Column |Name            |Description            |Links to or Called in                                         |Notes
+0      |ID              |Main ID                |                                                              |
+1      |localizedTextId |Name displayed in game |Language packs: en-US.bin, fr-FR.bin, and de-DE.bin: Column 0 |
+2      |iconName        |Asset displayed        |Client folder: UI\Icon\Windows                                |
+3      |accountItemId   |                       |                                                              |
