@@ -1,0 +1,13 @@
+Column |Name                |Description            |Links to or Called in                                         |Notes
+ 0     |ID                  |
+ 1     |description         |
+ 2     |creatureActionSetId |
+ 3     |state               |
+ 4     |event               |
+ 5     |orderIndex          |
+ 6     |delayMS             |
+ 7     |action              |
+ 8     |actionData00        |
+ 9     |actionData01        |
+10     |visualEffectId      |
+11     |prerequisiteId      |

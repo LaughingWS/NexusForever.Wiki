@@ -1,0 +1,5 @@
+Column |Name                    |Description            |Links to or Called in                                         |Notes
+0      |ID                      |
+1      |creature2DisplayGroupId |
+2      |creature2DisplayInfoId  |
+3      |weight                  |

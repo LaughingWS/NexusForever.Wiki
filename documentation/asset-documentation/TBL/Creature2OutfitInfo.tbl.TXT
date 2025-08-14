@@ -1,0 +1,14 @@
+Column |Name             |Description            |Links to or Called in                                         |Notes
+ 0     |ID               |
+ 1     |itemDisplayId00  |
+ 2     |itemDisplayId01  |
+ 3     |itemDisplayId02  |
+ 4     |itemDisplayId03  |
+ 5     |itemDisplayId04  |
+ 6     |itemDisplayId05  |
+ 7     |itemColorSetId00 |
+ 8     |itemColorSetId01 |
+ 9     |itemColorSetId02 |
+10     |itemColorSetId03 |
+11     |itemColorSetId04 |
+12     |itemColorSetId05 |

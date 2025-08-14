@@ -1,0 +1,79 @@
+Column |Name                       |Description            |Links to or Called in                                         |Notes
+ 0     |ID                         |
+ 1     |statusFlags                |
+ 2     |assetPath                  |
+ 3     |assetTexture00             |
+ 4     |assetTexture01             |
+ 5     |assetTexture02             |
+ 6     |assetTexture03             |
+ 7     |assetTexture04             |
+ 8     |assetTexture05             |
+ 9     |modelTextureId00           |
+10     |modelTextureId01           |
+11     |modelTextureId02           |
+12     |modelTextureId03           |
+13     |modelTextureId04           |
+14     |modelTextureId05           |
+15     |colorShiftTexturePath      |
+16     |colorShiftTextureIdMask    |
+17     |materialDataIdSkinColor0   |
+18     |materialDataIdSkinColor1   |
+19     |materialDataIdWeaponColor0 |
+20     |materialDataIdWeaponColor1 |
+21     |materialDataIdArmorColor0  |
+22     |materialDataIdArmorColor1  |
+23     |materialDataIdDefault0     |
+24     |materialDataIdDefault1     |
+25     |creatureMaterialEnum       |
+26     |scale                      |
+27     |hitRadius                  |
+28     |walkLand                   |
+29     |walkAir                    |
+30     |walkWater                  |
+31     |walkHover                  |
+32     |runLand                    |
+33     |runAir                     |
+34     |runWater                   |
+35     |runHover                   |
+36     |itemVisualTypeIdFeet       |
+37     |swimWaterDepth             |
+38     |raceId                     |
+39     |sex                        |
+40     |itemDisplayId00            |
+41     |itemDisplayId01            |
+42     |itemDisplayId02            |
+43     |itemDisplayId03            |
+44     |itemDisplayId04            |
+45     |itemDisplayId05            |
+46     |itemDisplayId06            |
+47     |itemDisplayId07            |
+48     |itemDisplayId08            |
+49     |itemDisplayId09            |
+50     |itemDisplayId10            |
+51     |itemDisplayId11            |
+52     |itemDisplayId12            |
+53     |itemDisplayId13            |
+54     |itemDisplayId14            |
+55     |itemDisplayId15            |
+56     |itemDisplayId16            |
+57     |itemDisplayId17            |
+58     |itemDisplayId18            |
+59     |itemDisplayId19            |
+60     |modelMeshId00              |
+61     |modelMeshId01              |
+62     |modelMeshId02              |
+63     |modelMeshId03              |
+64     |modelMeshId04              |
+65     |modelMeshId05              |
+66     |modelMeshId06              |
+67     |modelMeshId07              |
+68     |modelMeshId08              |
+69     |modelMeshId09              |
+70     |modelMeshId10              |
+71     |modelMeshId11              |
+72     |modelMeshId12              |
+73     |modelMeshId13              |
+74     |modelMeshId14              |
+75     |modelMeshId15              |
+76     |groundOffsetHover          |
+77     |groundOffsetFly            |

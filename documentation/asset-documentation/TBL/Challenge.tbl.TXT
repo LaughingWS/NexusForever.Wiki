@@ -1,0 +1,23 @@
+Column |Name                           |Description            |Links to or Called in                                         |Notes
+ 0     |ID                             |
+ 1     |challengeTypeEnum              |
+ 2     |target                         |
+ 3     |challengeFlags                 |
+ 4     |worldZoneIdRestriction         |
+ 5     |triggerVolume2IdRestriction    |
+ 6     |worldZoneId                    |
+ 7     |worldLocation2IdIndicator      |
+ 8     |worldLocation2IdStartLocation  |
+ 9     |completionCount                |
+10     |challengeTierId00              |
+11     |challengeTierId01              |
+12     |challengeTierId02              |
+13     |localizedTextIdName            |
+14     |localizedTextIdProgress        |
+15     |localizedTextIdAreaRestriction |
+16     |localizedTextIdLocation        |
+17     |virtualItemIdDisplay           |
+18     |targetGroupIdRewardPane        |
+19     |questDirectionIdActive         |
+20     |questDirectionIdInactive       |
+21     |rewardTrackId                  |

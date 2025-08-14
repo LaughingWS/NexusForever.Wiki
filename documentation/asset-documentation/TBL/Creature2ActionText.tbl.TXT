@@ -1,0 +1,17 @@
+Column |Name                           |Description            |Links to or Called in                                         |Notes
+ 0     |ID                             |
+ 1     |localizedTextIdOnEnterCombat00 |
+ 2     |localizedTextIdOnEnterCombat01 |
+ 3     |localizedTextIdOnEnterCombat02 |
+ 4     |localizedTextIdOnEnterCombat03 |
+ 5     |chanceToSayOnEnterCombat       |
+ 6     |localizedTextIdOnDeath00       |
+ 7     |localizedTextIdOnDeath01       |
+ 8     |localizedTextIdOnDeath02       |
+ 9     |localizedTextIdOnDeath03       |
+10     |chanceToSayOnDeath             |
+11     |localizedTextIdOnKill00        |
+12     |localizedTextIdOnKill01        |
+13     |localizedTextIdOnKill02        |
+14     |localizedTextIdOnKill03        |
+15     |chanceToSayOnKill              |

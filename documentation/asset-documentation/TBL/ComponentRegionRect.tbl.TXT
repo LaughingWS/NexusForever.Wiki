@@ -1,0 +1,8 @@
+Column |Name              |Description            |Links to or Called in                                         |Notes
+0      |ID                |
+1      |regionId          |
+2      |rectMinX          |
+3      |rectMinY          |
+4      |rectLimX          |
+5      |rectLimY          |
+6      |componentLayoutId |

@@ -1,0 +1,29 @@
+Column |Name                       |Description            |Links to or Called in                                         |Notes
+ 0     |ID                         |                       |                                                              |
+ 1     |classId                    |
+ 2     |raceId                     |
+ 3     |sex                        |
+ 4     |factionId                  |
+ 5     |costumeOnly                |
+ 6     |itemId0                    |
+ 7     |itemId01                   |
+ 8     |itemId02                   |
+ 9     |itemId03                   |
+10     |itemId04                   | 
+11     |itemId05                   |
+12     |itemId06                   |
+13     |itemId07                   |
+14     |itemId08                   |
+15     |itemId09                   |
+16     |itemId010                  |
+17     |itemId011                  |
+18     |itemId012                  |
+19     |itemId013                  |
+20     |itemId014                  |
+21     |itemId015                  |
+22     |enabled                    |
+23     |characterCreationStartEnum |
+24     |xp                         |
+25     |accountCurrencyTypeIdCost  |
+26     |accountCurrencyAmountCost  |
+27     |entitlementIdRequired      |

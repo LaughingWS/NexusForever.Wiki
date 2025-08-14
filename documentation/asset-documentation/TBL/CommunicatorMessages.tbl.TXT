@@ -1,0 +1,29 @@
+Column |Name                              |Description            |Links to or Called in                                         |Notes
+ 0     |ID                                |
+ 1     |localizedTextIdMessage            |
+ 2     |delay                             |
+ 3     |flags                             |
+ 4     |creatureId                        |
+ 5     |worldId                           |
+ 6     |worldZoneId                       |
+ 7     |minLevel                          |
+ 8     |maxLevel                          |
+ 9     |quest00                           |
+10     |quest01                           |
+11     |quest02                           |
+12     |state00                           |
+13     |state01                           |
+14     |state02                           |
+15     |factionId                         |
+16     |classId                           |
+17     |raceId                            |
+18     |factionIdReputation               |
+19     |reputationMin                     |
+20     |reputationMax                     |
+21     |questIdDelivered                  |
+22     |prerequisiteId                    |
+23     |displayDuration                   |
+24     |communicatorMessagesIdNext        |
+25     |communicatorPortraitPlacementEnum |
+26     |communicatorOverlayEnum           |
+27     |communicatorBackgroundEnum        |

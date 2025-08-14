@@ -1,0 +1,9 @@
+Column |Name                  |Description            |Links to or Called in                                         |Notes
+0      |ID                    |
+1      |cityDirectionTypeEnum |
+2      |localizedTextIdName   |
+3      |worldZoneId           |
+4      |worldLocation2Id00    |
+5      |worldLocation2Id01    |
+6      |worldLocation2Id02    |
+7      |worldLocation2Id03    |

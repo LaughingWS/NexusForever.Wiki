@@ -1,0 +1,10 @@
+Column |Name                        |Description            |Links to or Called in                                         |Notes
+0      |ID                          |
+1      |flags                       |
+2      |defaultBreakProbability     |
+3      |localizedTextIdName         |
+4      |spellIcon                   |
+5      |visualEffectId00            |
+6      |visualEffectId01            |
+7      |visualEffectId02            |
+8      |ccStateDiminishingReturnsId |

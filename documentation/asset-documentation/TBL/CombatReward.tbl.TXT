@@ -1,0 +1,7 @@
+Column |Name                            |Description            |Links to or Called in                                         |Notes
+0      |ID                              |
+1      |combatRewardTypeEnum            |
+2      |localizedTextIdCombatFloater    |
+3      |localizedTextIdCombatLogMessage |
+4      |visualEffectIdVisual00          |
+5      |visualEffectIdVisual01          |

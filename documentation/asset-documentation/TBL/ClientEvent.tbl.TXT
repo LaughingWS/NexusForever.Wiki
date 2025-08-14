@@ -1,0 +1,10 @@
+Column |Name                |Description            |Links to or Called in                                         |Notes
+0      |ID                  |
+1      |description         |
+2      |worldId             |
+3      |eventTypeEnum       |
+4      |eventData           |
+5      |prerequisiteId      |
+6      |priority            |
+7      |delayMS             |
+8      |clientEventActionId |

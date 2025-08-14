@@ -1,0 +1,26 @@
+Column |Name                   |Description            |Links to or Called in                                         |Notes
+ 0     |ID                     |
+ 1     |interactionType        |
+ 2     |threshold              |
+ 3     |duration               |
+ 4     |incrementValue         |
+ 5     |windowSize             |
+ 6     |decay                  |
+ 7     |flags                  |
+ 8     |tapTime0               |
+ 9     |tapTime1               |
+10     |visualEffectId0        |
+11     |visualEffectId1        |
+12     |visualEffectId2        |
+13     |visualEffectId3        |
+14     |visualEffectIdTarget00 |
+15     |visualEffectIdTarget01 |
+16     |visualEffectIdTarget02 |
+17     |visualEffectIdTarget03 |
+18     |visualEffectIdTarget04 |
+19     |visualEffectIdCaster00 |
+20     |visualEffectIdCaster01 |
+21     |visualEffectIdCaster02 |
+22     |visualEffectIdCaster03 |
+23     |visualEffectIdCaster04 |
+24     |localizedTextIdContext |

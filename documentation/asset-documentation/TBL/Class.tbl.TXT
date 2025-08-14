@@ -1,0 +1,64 @@
+Column |Name                            |Description            |Links to or Called in                                         |Notes
+ 0     |ID                              |
+ 1     |enumName                        |
+ 2     |localizedTextId                 |
+ 3     |localizedTextIdNameFemale       |
+ 4     |mechanic                        |
+ 5     |spell4IdInnateAbilityActive00   |
+ 6     |spell4IdInnateAbilityActive01   |
+ 7     |spell4IdInnateAbilityActive02   |
+ 8     |spell4IdInnateAbilityPassive00  |
+ 9     |spell4IdInnateAbilityPassive01  |
+10     |spell4IdInnateAbilityPassive02  |
+11     |prerequisiteIdInnateAbility00   |
+12     |prerequisiteIdInnateAbility01   |
+13     |prerequisiteIdInnateAbility02   |
+14     |startingItemProficiencies       |
+15     |spell4IdAttackPrimary00         |
+16     |spell4IdAttackPrimary01         |
+17     |spell4IdAttackUnarmed00         |
+18     |spell4IdAttackUnarmed01         |
+19     |spell4IdResAbility              |
+20     |localizedTextIdDescription      |
+21     |spell4GroupId                   |
+22     |classIdForClassApModifier       |
+23     |vitalEnumResource00             |
+24     |vitalEnumResource01             |
+25     |vitalEnumResource02             |
+26     |vitalEnumResource03             |
+27     |vitalEnumResource04             |
+28     |vitalEnumResource05             |
+29     |vitalEnumResource06             |
+30     |vitalEnumResource07             |
+31     |localizedTextIdResourceAlert00  |
+32     |localizedTextIdResourceAlert01  |
+33     |localizedTextIdResourceAlert02  |
+34     |localizedTextIdResourceAlert03  |
+35     |localizedTextIdResourceAlert04  |
+36     |localizedTextIdResourceAlert05  |
+37     |localizedTextIdResourceAlert06  |
+38     |localizedTextIdResourceAlert07  |
+39     |attributeMilestoneGroupId00     |
+40     |attributeMilestoneGroupId01     |
+41     |attributeMilestoneGroupId02     |
+42     |attributeMilestoneGroupId03     |
+43     |attributeMilestoneGroupId04     |
+44     |attributeMilestoneGroupId05     |
+45     |classSecondaryStatBonusId00     |
+46     |classSecondaryStatBonusId01     |
+47     |classSecondaryStatBonusId02     |
+48     |classSecondaryStatBonusId03     |
+49     |classSecondaryStatBonusId04     |
+50     |classSecondaryStatBonusId05     |
+51     |attributeMiniMilestoneGroupId00 |
+52     |attributeMiniMilestoneGroupId01 |
+53     |attributeMiniMilestoneGroupId02 |
+54     |attributeMiniMilestoneGroupId03 |
+55     |attributeMiniMilestoneGroupId04 |
+56     |attributeMiniMilestoneGroupId05 |
+57     |attributeMilestoneMaxTiers00    |
+58     |attributeMilestoneMaxTiers01    |
+59     |attributeMilestoneMaxTiers02    |
+60     |attributeMilestoneMaxTiers03    |
+61     |attributeMilestoneMaxTiers04    |
+62     |attributeMilestoneMaxTiers05    |

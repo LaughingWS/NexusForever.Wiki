@@ -1,0 +1,5 @@
+Column |Name              |Description            |Links to or Called in                                         |Notes
+0      |ID                |
+1      |creature2Id       |
+2      |unitPropertyIndex |
+3      |unitPropertyValue |

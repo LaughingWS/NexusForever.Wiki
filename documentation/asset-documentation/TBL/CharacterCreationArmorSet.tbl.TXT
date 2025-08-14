@@ -1,0 +1,16 @@
+Column |Name                       |Description            |Links to or Called in                                         |Notes
+ 0     |ID                         |                       |                                                              |
+ 1     |creationGearSetEnum        |
+ 2     |classId                    |
+ 3     |itemDisplayId00            |
+ 4     |itemDisplayId01            |
+ 5     |itemDisplayId02            |
+ 6     |itemDisplayId03            |
+ 7     |itemDisplayId04            |
+ 8     |itemDisplayId05            |
+ 9     |itemDisplayId06            |
+10     |itemDisplayId07            |
+11     |itemDisplayId08            |
+12     |itemDisplayId09            |
+13     |itemDisplayId10            |
+14     |itemDisplayId11            |

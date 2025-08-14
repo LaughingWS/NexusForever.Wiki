@@ -1,0 +1,60 @@
+Column |Name                 |Description            |Links to or Called in                                         |Notes
+ 0     |ID                   |
+ 1     |assetPath            |
+ 2     |assetTexture0        |
+ 3     |assetTexture1        |
+ 4     |modelTextureId0      |
+ 5     |modelTextureId1      |
+ 6     |creatureMaterialEnum |
+ 7     |scale                |
+ 8     |hitRadius            |
+ 9     |walkLand             |
+10     |walkAir              |
+11     |walkWater            |
+12     |walkHover            |
+13     |runLand              |
+14     |runAir               |
+15     |runWater             |
+16     |runHover             |
+17     |itemVisualTypeIdFeet |
+18     |swimWaterDepth       |
+19     |race                 |
+20     |sex                  |
+21     |itemDisplayId00      |
+22     |itemDisplayId01      |
+23     |itemDisplayId02      |
+24     |itemDisplayId03      |
+25     |itemDisplayId04      |
+26     |itemDisplayId05      |
+27     |itemDisplayId06      |
+28     |itemDisplayId07      |
+29     |itemDisplayId08      |
+30     |itemDisplayId09      |
+31     |itemDisplayId10      |
+32     |itemDisplayId11      |
+33     |itemDisplayId12      |
+34     |itemDisplayId13      |
+35     |itemDisplayId14      |
+36     |itemDisplayId15      |
+37     |itemDisplayId16      |
+38     |itemDisplayId17      |
+39     |itemDisplayId18      |
+40     |itemDisplayId19      |
+41     |modelMeshId00        |
+42     |modelMeshId01        |
+43     |modelMeshId02        |
+44     |modelMeshId03        |
+45     |modelMeshId04        |
+46     |modelMeshId05        |
+47     |modelMeshId06        |
+48     |modelMeshId07        |
+49     |modelMeshId08        |
+50     |modelMeshId09        |
+51     |modelMeshId10        |
+52     |modelMeshId11        |
+53     |modelMeshId12        |
+54     |modelMeshId13        |
+55     |modelMeshId14        |
+56     |modelMeshId15        |
+57     |groundOffsetHover    |
+58     |groundOffsetFly      |

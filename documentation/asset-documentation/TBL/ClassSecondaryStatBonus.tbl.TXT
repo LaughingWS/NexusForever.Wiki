@@ -1,0 +1,8 @@
+Column |Name                           |Description            |Links to or Called in                                         |Notes
+0      |ID                             |
+1      |unitProperty2IdSecondaryStat00 |
+2      |unitProperty2IdSecondaryStat01 |
+3      |unitProperty2IdSecondaryStat02 |
+4      |modifier00                     |
+5      |modifier01                     |
+6      |modifier02                     |

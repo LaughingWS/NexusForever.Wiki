@@ -1,0 +1,11 @@
+Column |Name                        |Description            |Links to or Called in                                         |Notes
+0      |ID                          |
+1      |enumName                    |
+2      |universalCommand00          |
+3      |universalCommand01          |
+4      |localizedTextIdName         |
+5      |localizedTextIdCommand      |
+6      |localizedTextIdAbbreviation |
+7      |localizedTextIdAlternate00  |
+8      |localizedTextIdAlternate01  |
+9      |flags                       |

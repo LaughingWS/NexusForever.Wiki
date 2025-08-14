@@ -1,0 +1,5 @@
+Column |Name                       |Description            |Links to or Called in                                         |Notes
+0      |ID                         |
+1      |binkMovieId                |
+2      |delayMs                    |
+3      |localizedTextIdDisplayText |

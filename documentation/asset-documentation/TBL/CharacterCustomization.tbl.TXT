@@ -1,0 +1,11 @@
+Column |Name                            |Description            |Links to or Called in                                         |Notes
+0      |ID                              |
+1      |raceId                          |
+2      |gender                          |
+3      |itemSlotId                      |
+4      |itemDisplayId                   |
+5      |flags                           |
+6      |characterCustomizationLabelId00 |
+7      |characterCustomizationLabelId01 |
+8      |value00                         |
+9      |value01                         |
