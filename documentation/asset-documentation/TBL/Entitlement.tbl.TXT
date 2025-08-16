@@ -1,0 +1,9 @@
+Column |Name                       |Description            |Links to or Called in                                         |Notes
+0      |ID                         |
+1      |maxCount                   |
+2      |flags                      |
+3      |spell4IdPersistentBuff     |
+4      |characterTitleId           |
+5      |localizedTextIdName        |
+6      |localizedTextIdDescription |
+7      |buttonIcon                 |

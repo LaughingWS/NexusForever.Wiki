@@ -1,0 +1,8 @@
+Column |Name                |Description            |Links to or Called in                                         |Notes
+0      |ID                  |
+1      |flags               |
+2      |localizedTextIdName |
+3      |rampIndex           |
+4      |costMultiplier      |
+5      |componentMapEnum    |
+6      |prerequisiteId      |

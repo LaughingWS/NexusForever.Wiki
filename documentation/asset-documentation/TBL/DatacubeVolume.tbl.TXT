@@ -1,0 +1,20 @@
+Column |Name                |Description            |Links to or Called in                                         |Notes
+ 0     |ID                  |
+ 1     |localizedTextIdName |
+ 2     |assetPath           |
+ 3     |datacubeId00        |
+ 4     |datacubeId01        |
+ 5     |datacubeId02        |
+ 6     |datacubeId03        |
+ 7     |datacubeId04        |
+ 8     |datacubeId05        |
+ 9     |datacubeId06        |
+10     |datacubeId07        |
+11     |datacubeId08        |
+12     |datacubeId09        |
+13     |datacubeId10        |
+14     |datacubeId11        |
+15     |datacubeId12        |
+16     |datacubeId13        |
+17     |datacubeId14        |
+18     |datacubeId15        |

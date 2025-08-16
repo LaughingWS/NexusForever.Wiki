@@ -1,0 +1,27 @@
+Column |Name                          |Description            |Links to or Called in                                         |Notes
+ 0     |ID                            |
+ 1     |localizedTextIdNoArgToAll     |
+ 2     |localizedTextIdNoArgToSelf    |
+ 3     |NoArgAnim                     |
+ 4     |localizedTextIdArgToAll       |
+ 5     |localizedTextIdArgToArg       |
+ 6     |localizedTextIdArgToSelf      |
+ 7     |ArgAnim                       |
+ 8     |localizedTextIdSelfToAll      |
+ 9     |localizedTextIdSelfToSelf     |
+10     |SelfAnim                      |
+11     |SheathWeapons                 |
+12     |TurnToFace                    |
+13     |TextReplaceable               |
+14     |ChangesStandState             |
+15     |StandState                    |
+16     |localizedTextIdCommand        |
+17     |localizedTextIdNotFoundToAll  |
+18     |localizedTextIdNotFoundToSelf |
+19     |NotFoundAnim                  |
+20     |TextReplaceAnim               |
+21     |modelSequenceIdStandState     |
+22     |visualEffectId                |
+23     |flags                         |
+24     |universalCommand00            |
+25     |universalCommand01            |

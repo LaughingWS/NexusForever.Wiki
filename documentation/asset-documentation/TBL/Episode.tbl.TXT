@@ -1,0 +1,10 @@
+Column |Name                      |Description            |Links to or Called in                                         |Notes
+0      |ID                        |
+1      |localizedTextIdName       |
+2      |localizedTextIdBriefing   |
+3      |localizedTextIdEndSummary |
+4      |flags                     |
+5      |worldZoneId               |
+6      |percentToDisplay          |
+7      |questHubIdExile           |
+8      |questHubIdDominion        |

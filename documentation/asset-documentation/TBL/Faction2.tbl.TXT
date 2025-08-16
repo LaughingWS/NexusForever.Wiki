@@ -1,0 +1,8 @@
+Column |Name                   |Description            |Links to or Called in                                         |Notes
+0      |ID                     |
+1      |faction2IdParent       |
+2      |flags                  |
+3      |localizedTextIdName    |
+4      |localizedTextIdToolTip |
+5      |orderIndex             |
+6      |archiveArticleId       |

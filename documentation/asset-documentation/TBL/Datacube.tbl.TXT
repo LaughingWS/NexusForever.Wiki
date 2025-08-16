@@ -1,0 +1,14 @@
+Column |Name                  |Description            |Links to or Called in                                         |Notes
+ 0     |ID                    |
+ 1     |datacubeTypeEnum      |
+ 2     |localizedTextIdTitle  |
+ 3     |localizedTextIdText00 |
+ 4     |localizedTextIdText01 |
+ 5     |localizedTextIdText02 |
+ 6     |localizedTextIdText03 |
+ 7     |localizedTextIdText04 |
+ 8     |localizedTextIdText05 |
+ 9     |soundEventId          |
+10     |worldZoneId           |
+11     |unlockCount           |
+12     |assetPathImage        |

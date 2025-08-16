@@ -1,0 +1,12 @@
+Column |Name              |Description            |Links to or Called in                                         |Notes
+ 0     |ID                |
+ 1     |distancePercent00 |
+ 2     |distancePercent01 |
+ 3     |distancePercent02 |
+ 4     |distancePercent03 |
+ 5     |distancePercent04 |
+ 6     |damageModifier00  |
+ 7     |damageModifier01  |
+ 8     |damageModifier02  |
+ 9     |damageModifier03  |
+10     |damageModifier04  |

@@ -1,0 +1,9 @@
+Column |Name                                       |Description            |Links to or Called in                                         |Notes
+0      |ID                                         |
+1      |eldanAugmentationCategoryIdTier2Category00 |
+2      |eldanAugmentationCategoryIdTier2Category01 |
+3      |tier2CostAmount00                          |
+4      |tier2CostAmount01                          |
+5      |tier3CostAmount00                          |
+6      |tier3CostAmount01                          |
+7      |localizedTextIdName                        |

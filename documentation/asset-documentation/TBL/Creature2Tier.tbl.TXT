@@ -1,0 +1,202 @@
+Column |Name                      |Description            |Links to or Called in                                         |Notes
+  0    |ID                        |
+  1    |unitPropertyMultiplier000 |
+  2    |unitPropertyMultiplier001 |
+  3    |unitPropertyMultiplier002 |
+  4    |unitPropertyMultiplier003 |
+  5    |unitPropertyMultiplier004 |
+  6    |unitPropertyMultiplier005 |
+  7    |unitPropertyMultiplier006 |
+  8    |unitPropertyMultiplier007 |
+  9    |unitPropertyMultiplier008 |
+ 10    |unitPropertyMultiplier009 |
+ 11    |unitPropertyMultiplier010 |
+ 12    |unitPropertyMultiplier011 |
+ 13    |unitPropertyMultiplier012 |
+ 14    |unitPropertyMultiplier013 |
+ 15    |unitPropertyMultiplier014 |
+ 16    |unitPropertyMultiplier015 |
+ 17    |unitPropertyMultiplier016 |
+ 18    |unitPropertyMultiplier017 |
+ 19    |unitPropertyMultiplier018 |
+ 20    |unitPropertyMultiplier019 |
+ 21    |unitPropertyMultiplier020 |
+ 22    |unitPropertyMultiplier021 |
+ 23    |unitPropertyMultiplier022 |
+ 24    |unitPropertyMultiplier023 |
+ 25    |unitPropertyMultiplier024 |
+ 26    |unitPropertyMultiplier025 |
+ 27    |unitPropertyMultiplier026 |
+ 28    |unitPropertyMultiplier027 |
+ 29    |unitPropertyMultiplier028 |
+ 30    |unitPropertyMultiplier029 |
+ 31    |unitPropertyMultiplier030 |
+ 32    |unitPropertyMultiplier031 |
+ 33    |unitPropertyMultiplier032 |
+ 34    |unitPropertyMultiplier033 |
+ 35    |unitPropertyMultiplier034 |
+ 36    |unitPropertyMultiplier035 |
+ 37    |unitPropertyMultiplier036 |
+ 38    |unitPropertyMultiplier037 |
+ 39    |unitPropertyMultiplier038 |
+ 40    |unitPropertyMultiplier039 |
+ 41    |unitPropertyMultiplier040 |
+ 42    |unitPropertyMultiplier041 |
+ 43    |unitPropertyMultiplier042 |
+ 44    |unitPropertyMultiplier043 |
+ 45    |unitPropertyMultiplier044 |
+ 46    |unitPropertyMultiplier045 |
+ 47    |unitPropertyMultiplier046 |
+ 48    |unitPropertyMultiplier047 |
+ 49    |unitPropertyMultiplier048 |
+ 50    |unitPropertyMultiplier049 |
+ 51    |unitPropertyMultiplier050 |
+ 52    |unitPropertyMultiplier051 |
+ 53    |unitPropertyMultiplier052 |
+ 54    |unitPropertyMultiplier053 |
+ 55    |unitPropertyMultiplier054 |
+ 56    |unitPropertyMultiplier055 |
+ 57    |unitPropertyMultiplier056 |
+ 58    |unitPropertyMultiplier057 |
+ 59    |unitPropertyMultiplier058 |
+ 60    |unitPropertyMultiplier059 |
+ 61    |unitPropertyMultiplier060 |
+ 62    |unitPropertyMultiplier061 |
+ 63    |unitPropertyMultiplier062 |
+ 64    |unitPropertyMultiplier063 |
+ 65    |unitPropertyMultiplier064 |
+ 66    |unitPropertyMultiplier065 |
+ 67    |unitPropertyMultiplier066 |
+ 68    |unitPropertyMultiplier067 |
+ 69    |unitPropertyMultiplier068 |
+ 70    |unitPropertyMultiplier069 |
+ 71    |unitPropertyMultiplier070 |
+ 72    |unitPropertyMultiplier071 |
+ 73    |unitPropertyMultiplier072 |
+ 74    |unitPropertyMultiplier073 |
+ 75    |unitPropertyMultiplier074 |
+ 76    |unitPropertyMultiplier075 |
+ 77    |unitPropertyMultiplier076 |
+ 78    |unitPropertyMultiplier077 |
+ 79    |unitPropertyMultiplier078 |
+ 80    |unitPropertyMultiplier079 |
+ 81    |unitPropertyMultiplier080 |
+ 82    |unitPropertyMultiplier081 |
+ 83    |unitPropertyMultiplier082 |
+ 84    |unitPropertyMultiplier083 |
+ 85    |unitPropertyMultiplier084 |
+ 86    |unitPropertyMultiplier085 |
+ 87    |unitPropertyMultiplier086 |
+ 88    |unitPropertyMultiplier087 |
+ 89    |unitPropertyMultiplier088 |
+ 90    |unitPropertyMultiplier089 |
+ 91    |unitPropertyMultiplier090 |
+ 92    |unitPropertyMultiplier091 |
+ 93    |unitPropertyMultiplier092 |
+ 94    |unitPropertyMultiplier093 |
+ 95    |unitPropertyMultiplier094 |
+ 96    |unitPropertyMultiplier095 |
+ 97    |unitPropertyMultiplier096 |
+ 98    |unitPropertyMultiplier097 |
+ 99    |unitPropertyMultiplier098 |
+100    |unitPropertyMultiplier099 |
+101    |unitPropertyMultiplier100 |
+102    |unitPropertyMultiplier101 |
+103    |unitPropertyMultiplier102 |
+104    |unitPropertyMultiplier103 |
+105    |unitPropertyMultiplier104 |
+106    |unitPropertyMultiplier105 |
+107    |unitPropertyMultiplier106 |
+108    |unitPropertyMultiplier107 |
+109    |unitPropertyMultiplier108 |
+110    |unitPropertyMultiplier109 |
+111    |unitPropertyMultiplier110 |
+112    |unitPropertyMultiplier111 |
+113    |unitPropertyMultiplier112 |
+114    |unitPropertyMultiplier113 |
+115    |unitPropertyMultiplier114 |
+116    |unitPropertyMultiplier115 |
+117    |unitPropertyMultiplier116 |
+118    |unitPropertyMultiplier117 |
+119    |unitPropertyMultiplier118 |
+120    |unitPropertyMultiplier119 |
+121    |unitPropertyMultiplier120 |
+122    |unitPropertyMultiplier121 |
+123    |unitPropertyMultiplier122 |
+124    |unitPropertyMultiplier123 |
+125    |unitPropertyMultiplier124 |
+126    |unitPropertyMultiplier125 |
+127    |unitPropertyMultiplier126 |
+128    |unitPropertyMultiplier127 |
+129    |unitPropertyMultiplier128 |
+130    |unitPropertyMultiplier129 |
+131    |unitPropertyMultiplier130 |
+132    |unitPropertyMultiplier131 |
+133    |unitPropertyMultiplier132 |
+134    |unitPropertyMultiplier133 |
+135    |unitPropertyMultiplier134 |
+136    |unitPropertyMultiplier135 |
+137    |unitPropertyMultiplier136 |
+138    |unitPropertyMultiplier137 |
+139    |unitPropertyMultiplier138 |
+140    |unitPropertyMultiplier139 |
+141    |unitPropertyMultiplier140 |
+142    |unitPropertyMultiplier141 |
+143    |unitPropertyMultiplier142 |
+144    |unitPropertyMultiplier143 |
+145    |unitPropertyMultiplier144 |
+146    |unitPropertyMultiplier145 |
+147    |unitPropertyMultiplier146 |
+148    |unitPropertyMultiplier147 |
+149    |unitPropertyMultiplier148 |
+150    |unitPropertyMultiplier149 |
+151    |unitPropertyMultiplier150 |
+152    |unitPropertyMultiplier151 |
+153    |unitPropertyMultiplier152 |
+154    |unitPropertyMultiplier153 |
+155    |unitPropertyMultiplier154 |
+156    |unitPropertyMultiplier155 |
+157    |unitPropertyMultiplier156 |
+158    |unitPropertyMultiplier157 |
+159    |unitPropertyMultiplier158 |
+160    |unitPropertyMultiplier159 |
+161    |unitPropertyMultiplier160 |
+162    |unitPropertyMultiplier161 |
+163    |unitPropertyMultiplier162 |
+164    |unitPropertyMultiplier163 |
+165    |unitPropertyMultiplier164 |
+166    |unitPropertyMultiplier165 |
+167    |unitPropertyMultiplier166 |
+168    |unitPropertyMultiplier167 |
+169    |unitPropertyMultiplier168 |
+170    |unitPropertyMultiplier169 |
+171    |unitPropertyMultiplier170 |
+172    |unitPropertyMultiplier171 |
+173    |unitPropertyMultiplier172 |
+174    |unitPropertyMultiplier173 |
+175    |unitPropertyMultiplier174 |
+176    |unitPropertyMultiplier175 |
+177    |unitPropertyMultiplier176 |
+178    |unitPropertyMultiplier177 |
+179    |unitPropertyMultiplier178 |
+180    |unitPropertyMultiplier179 |
+181    |unitPropertyMultiplier180 |
+182    |unitPropertyMultiplier181 |
+183    |unitPropertyMultiplier182 |
+184    |unitPropertyMultiplier183 |
+185    |unitPropertyMultiplier184 |
+186    |unitPropertyMultiplier185 |
+187    |unitPropertyMultiplier186 |
+188    |unitPropertyMultiplier187 |
+189    |unitPropertyMultiplier188 |
+190    |unitPropertyMultiplier189 |
+191    |unitPropertyMultiplier190 |
+192    |unitPropertyMultiplier191 |
+193    |unitPropertyMultiplier192 |
+194    |unitPropertyMultiplier193 |
+195    |unitPropertyMultiplier194 |
+196    |unitPropertyMultiplier195 |
+197    |unitPropertyMultiplier196 |
+198    |unitPropertyMultiplier197 |
+199    |unitPropertyMultiplier198 |
+200    |unitPropertyMultiplier199 |
