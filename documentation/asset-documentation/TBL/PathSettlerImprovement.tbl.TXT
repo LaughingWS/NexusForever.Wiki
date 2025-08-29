@@ -1,0 +1,9 @@
+Column |Name                          |Description            |Links to or Called in                                         |Notes
+0      |ID                            |
+1      |countResource00               |
+2      |countResource01               |
+3      |countResource02               |
+4      |countRecontributionResource00 |
+5      |countRecontributionResource01 |
+6      |countRecontributionResource02 |
+7      |spell4IdDisplay               |

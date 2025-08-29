@@ -1,0 +1,10 @@
+Column |Name                   |Description            |Links to or Called in                                         |Notes
+0      |ID                     |
+1      |unlockBitIndex00       |
+2      |unlockBitIndex01       |
+3      |type                   |
+4      |spell4Id               |
+5      |localizedTextIdTooltip |
+6      |itemDisplayId00        |
+7      |itemDisplayId01        |
+8      |prerequisiteId         |

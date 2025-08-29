@@ -1,0 +1,8 @@
+Column |Name                     |Description            |Links to or Called in                                         |Notes
+0      |ID                       |
+1      |periodicQuestSetId       |
+2      |periodicQuestsOffered    |
+3      |maxPeriodicQuestsAllowed |
+4      |weight                   |
+5      |contractTypeEnum         |
+6      |contractQualityEnum      |

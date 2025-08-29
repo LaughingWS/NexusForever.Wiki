@@ -1,0 +1,15 @@
+Column |Name             |Description            |Links to or Called in                                         |Notes
+ 0     |ID               |
+ 1     |localizedTextId  |
+ 2     |itemSetBonusId00 |
+ 3     |itemSetBonusId01 |
+ 4     |itemSetBonusId02 |
+ 5     |itemSetBonusId03 |
+ 6     |itemSetBonusId04 |
+ 7     |itemSetBonusId05 |
+ 8     |itemSetBonusId06 |
+ 9     |itemSetBonusId07 |
+10     |itemSetBonusId08 |
+11     |itemSetBonusId09 |
+12     |itemSetBonusId10 |
+13     |itemSetBonusId11 |

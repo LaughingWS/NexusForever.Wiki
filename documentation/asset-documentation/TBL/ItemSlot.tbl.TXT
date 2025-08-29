@@ -1,0 +1,9 @@
+Column |Name              |Description            |Links to or Called in                                         |Notes
+0      |ID                |
+1      |EnumName          |
+2      |equippedSlotFlags |
+3      |armorModifier     |
+4      |itemLevelModifier |
+5      |slotBonus         |
+6      |glyphSlotBonus    |
+7      |minLevel          |

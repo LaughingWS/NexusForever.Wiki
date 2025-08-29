@@ -1,0 +1,13 @@
+Column |Name                          |Description            |Links to or Called in                                         |Notes
+ 0     |ID                            |
+ 1     |creature2IdStart              |
+ 2     |pathExplorerScavengerClueId00 |
+ 3     |pathExplorerScavengerClueId01 |
+ 4     |pathExplorerScavengerClueId02 |
+ 5     |pathExplorerScavengerClueId03 |
+ 6     |pathExplorerScavengerClueId04 |
+ 7     |pathExplorerScavengerClueId05 |
+ 8     |pathExplorerScavengerClueId06 |
+ 9     |localizedTextIdStart          |
+10     |spell4IdRelic                 |
+11     |assetPathSprite               |

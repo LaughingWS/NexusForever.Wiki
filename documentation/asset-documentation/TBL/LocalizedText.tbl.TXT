@@ -1,0 +1,8 @@
+Column |Name                        |Description            |Links to or Called in                                         |Notes
+0      |ID                          |
+1      |soundEventId                |
+2      |soundEventIdFemale          |
+3      |version                     |
+4      |unitVoiceTypeId             |
+5      |stringContextEnum           |
+6      |soundAvailabilityFlagFemale |

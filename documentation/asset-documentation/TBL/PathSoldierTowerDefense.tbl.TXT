@@ -1,0 +1,10 @@
+Column |Name                               |Description            |Links to or Called in                                         |Notes
+0      |ID                                 | 
+1      |pathSoldierEventId                 |
+2      |buildCost                          |
+3      |localizedTextIdName                |
+4      |worldLocation2IdDisplay            |
+5      |towerDefenseBuildType              |
+6      |spell4Id                           |
+7      |soldierTowerDefenseFlags           |
+8      |soldierTowerDefenseImprovementType |

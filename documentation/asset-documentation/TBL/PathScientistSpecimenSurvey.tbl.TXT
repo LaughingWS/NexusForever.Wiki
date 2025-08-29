@@ -1,0 +1,42 @@
+Column |Name                       |Description            |Links to or Called in                                         |Notes
+ 0     |ID                         |
+ 1     |localizedTextIdObjective00 |
+ 2     |localizedTextIdObjective01 |
+ 3     |localizedTextIdObjective02 |
+ 4     |localizedTextIdObjective03 |
+ 5     |localizedTextIdObjective04 |
+ 6     |localizedTextIdObjective05 |
+ 7     |localizedTextIdObjective06 |
+ 8     |localizedTextIdObjective07 |
+ 9     |localizedTextIdObjective08 |
+10     |localizedTextIdObjective09 |
+11     |worldLocation2Id00         |
+12     |worldLocation2Id01         |
+13     |worldLocation2Id02         |
+14     |worldLocation2Id03         |
+15     |worldLocation2Id04         |
+16     |worldLocation2Id05         |
+17     |worldLocation2Id06         |
+18     |worldLocation2Id07         |
+19     |worldLocation2Id08         |
+20     |worldLocation2Id09         |
+21     |specimenSurveyFlags00      |
+22     |specimenSurveyFlags01      |
+23     |specimenSurveyFlags02      |
+24     |specimenSurveyFlags03      |
+25     |specimenSurveyFlags04      |
+26     |specimenSurveyFlags05      |
+27     |specimenSurveyFlags06      |
+28     |specimenSurveyFlags07      |
+29     |specimenSurveyFlags08      |
+30     |specimenSurveyFlags09      |
+31     |questDirectionId00         |
+32     |questDirectionId01         |
+33     |questDirectionId02         |
+34     |questDirectionId03         |
+35     |questDirectionId04         |
+36     |questDirectionId05         |
+37     |questDirectionId06         |
+38     |questDirectionId07         |
+39     |questDirectionId08         |
+40     |questDirectionId09         |

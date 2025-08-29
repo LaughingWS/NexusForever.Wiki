@@ -1,0 +1,6 @@
+Column |Name                 |Description            |Links to or Called in                                         |Notes
+0      |ID                   |
+1      |modelSequenceId      |
+2      |modelSequenceIdSwim  |
+3      |modelSequenceIdHover |
+4      |modelSequenceIdFly   |

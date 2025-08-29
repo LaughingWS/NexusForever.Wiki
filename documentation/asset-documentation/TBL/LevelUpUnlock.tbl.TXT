@@ -1,0 +1,9 @@
+Column |Name                       |Description            |Links to or Called in                                         |Notes
+0      |ID                         |
+1      |levelUpUnlockSystemEnum    |
+2      |level                      |
+3      |levelUpUnlockTypeId        |
+4      |localizedTextIdDescription |
+5      |displayIcon                |
+6      |prerequisiteId             |
+7      |levelUpUnlockValue         |

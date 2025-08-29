@@ -1,0 +1,13 @@
+Column |Name                        |Description            |Links to or Called in                                         |Notes
+ 0     |ID                          |
+ 1     |modelSequenceId             |
+ 2     |modelSequenceId1H           |
+ 3     |modelSequenceId2H           |
+ 4     |modelSequenceId2HL          |
+ 5     |modelSequenceId2HGun        |
+ 6     |modelSequenceIdPistols      |
+ 7     |modelSequenceIdClaws        |
+ 8     |modelSequenceIdShockPaddles |
+ 9     |modelSequenceIdEsper        |
+10     |modelSequenceIdPsyblade     |
+11     |modelSequenceIdHeavygun     |

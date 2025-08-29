@@ -1,0 +1,30 @@
+Column |Name                               |Description            |Links to or Called in                                         |Notes
+ 0     |ID                                 |
+ 1     |maxAvenueEconomy                   |
+ 2     |maxAvenueSecurity                  |
+ 3     |maxAvenueQualityOfLife             |
+ 4     |localizedTextIdEconomy             |
+ 5     |localizedTextIdSecurity            |
+ 6     |localizedTextIdQualityOfLife       |
+ 7     |worldZoneId                        |
+ 8     |missionCount                       |
+ 9     |flags                              |
+10     |item2IdResource00                  |
+11     |item2IdResource01                  |
+12     |item2IdResource02                  |
+13     |publicEventObjectiveIdResource00   |
+14     |publicEventObjectiveIdResource01   |
+15     |publicEventObjectiveIdResource02   |
+16     |worldLocation2IdMapResource00Loc00 |
+17     |worldLocation2IdMapResource00Loc01 |
+18     |worldLocation2IdMapResource00Loc02 |
+19     |worldLocation2IdMapResource00Loc03 |
+20     |worldLocation2IdMapResource01Loc00 |
+21     |worldLocation2IdMapResource01Loc01 |
+22     |worldLocation2IdMapResource01Loc02 |
+23     |worldLocation2IdMapResource01Loc03 |
+24     |worldLocation2IdMapResource02Loc00 |
+25     |worldLocation2IdMapResource02Loc01 |
+26     |worldLocation2IdMapResource02Loc02 |
+27     |worldLocation2IdMapResource02Loc03 |
+28     |localizedTextIdRewardNotify        |

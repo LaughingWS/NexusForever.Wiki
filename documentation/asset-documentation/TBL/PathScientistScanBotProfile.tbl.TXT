@@ -1,0 +1,18 @@
+Column |Name                             |Description            |Links to or Called in                                         |Notes
+ 0     |ID                               |
+ 1     |localizedTextId                  |
+ 2     |creature2Id                      |
+ 3     |scanTimeMS                       |
+ 4     |processingTimeMS                 |
+ 5     |playerRadius                     |
+ 6     |scanAOERange                     |
+ 7     |maxSeekDistance                  |
+ 8     |speedMultiplier                  |
+ 9     |thoroughnessMultiplier           |
+10     |healthMultiplier                 |
+11     |healthRegenMultiplier            |
+12     |minCooldownTimeMs                |
+13     |maxCooldownTimeMs                |
+14     |maxCooldownDistance              |
+15     |pathScientistScanBotProfileFlags |
+16     |socketCount                      |

@@ -1,0 +1,7 @@
+Column |Name              |Description            |Links to or Called in                                         |Notes
+0      |ID                |
+1      |mapZoneHexGroupId |
+2      |levelMin          |
+3      |levelMax          |
+4      |labelX            |
+5      |labelZ            |

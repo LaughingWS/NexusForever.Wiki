@@ -1,0 +1,11 @@
+Column |Name                       |Description            |Links to or Called in                                         |Notes
+0      |ID                         |
+1      |lootSpellTypeEnum          |
+2      |lootSpellPickupEnumFlags   |
+3      |creature2Id                |
+4      |buttonIcon                 |
+5      |localizedTextIdName        |
+6      |localizedTextIdDescription |
+7      |visualEffectId             |
+8      |data                       |
+9      |dataValue                  |

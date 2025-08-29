@@ -1,0 +1,15 @@
+Column |Name                       |Description            |Links to or Called in                                         |Notes
+ 0     |ID                         |
+ 1     |localizedTextIdName        |
+ 2     |localizedTextIdDescription |
+ 3     |matchTypeEnum              |
+ 4     |matchingGameTypeEnumFlags  |
+ 5     |teamSize                   |
+ 6     |minLevel                   |
+ 7     |maxLevel                   |
+ 8     |preparationTimeMS          |
+ 9     |matchTimeMS                |
+10     |matchingRulesEnum          |
+11     |matchingRulesData00        |
+12     |matchingRulesData01        |
+13     |targetItemLevel            |

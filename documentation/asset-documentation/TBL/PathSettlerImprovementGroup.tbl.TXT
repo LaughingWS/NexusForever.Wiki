@@ -1,0 +1,17 @@
+Column |Name                                         |Description            |Links to or Called in                                         |Notes
+ 0     |ID                                           |
+ 1     |pathSettlerHubId                             |
+ 2     |pathSettlerImprovementGroupFlags             |
+ 3     |creature2IdDepot                             |
+ 4     |localizedTextIdName                          |
+ 5     |settlerAvenueTypeEnum                        |
+ 6     |contributionValue                            |
+ 7     |perTierBonusContributionValue                |
+ 8     |durationPerBundleMs                          |
+ 9     |maxBundleCount                               |
+10     |pathSettlerImprovementGroupIdOutpostRequired |
+11     |pathSettlerImprovementIdTier00               |
+12     |pathSettlerImprovementIdTier01               |
+13     |pathSettlerImprovementIdTier02               |
+14     |pathSettlerImprovementIdTier03               |
+15     |worldLocation2IdDisplayPoint                 |

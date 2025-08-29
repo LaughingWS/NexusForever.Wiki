@@ -1,0 +1,15 @@
+Column |Name                     |Description            |Links to or Called in                                         |Notes
+ 0     |ID                       |
+ 1     |localizedTextIdName      |
+ 2     |mapContinentId           |
+ 3     |folder                   |
+ 4     |hexMinX                  |
+ 5     |hexMinY                  |
+ 6     |hexLimX                  |
+ 7     |hexLimY                  |
+ 8     |version                  |
+ 9     |mapZoneIdParent          |
+10     |worldZoneId              |
+11     |flags                    |
+12     |prerequisiteIdVisibility |
+13     |rewardTrackId            |

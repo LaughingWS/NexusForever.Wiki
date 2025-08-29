@@ -1,0 +1,7 @@
+Column |Name                           |Description            |Links to or Called in                                         |Notes
+0      |ID                             |
+1      |localizedTextIdName            |
+2      |localizedTextIdDescription     |
+3      |pathMissionId                  |
+4      |pathScientistExperimentationId |
+5      |iconAssetPath                  |

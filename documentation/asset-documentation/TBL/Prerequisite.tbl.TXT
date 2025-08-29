@@ -1,0 +1,16 @@
+Column |Name                      |Description            |Links to or Called in                                         |Notes
+ 0     |ID                        |
+ 1     |flags                     |
+ 2     |prerequisiteTypeId0       |
+ 3     |prerequisiteTypeId1       |
+ 4     |prerequisiteTypeId2       |
+ 5     |prerequisiteComparisonId0 |
+ 6     |prerequisiteComparisonId1 |
+ 7     |prerequisiteComparisonId2 |
+ 8     |objectId0                 |
+ 9     |objectId1                 |
+10     |objectId2                 |
+11     |value0                    |
+12     |value1                    |
+13     |value2                    |
+14     |localizedTextIdFailure    |

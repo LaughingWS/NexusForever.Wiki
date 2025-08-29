@@ -1,0 +1,27 @@
+Column |Name                   |Description            |Links to or Called in                                         |Notes
+ 0     |ID                     |
+ 1     |localizedTextId00      |
+ 2     |localizedTextId01      |
+ 3     |localizedTextId02      |
+ 4     |localizedTextId03      |
+ 5     |localizedTextId04      |
+ 6     |localizedTextId05      |
+ 7     |localizedTextId06      |
+ 8     |localizedTextId07      |
+ 9     |worldLocation2Id00     |
+10     |worldLocation2Id01     |
+11     |worldLocation2Id02     |
+12     |worldLocation2Id03     |
+13     |worldLocation2Id04     |
+14     |worldLocation2Id05     |
+15     |worldLocation2Id06     |
+16     |worldLocation2Id07     |
+17     |questDirectionId00     |
+18     |questDirectionId01     |
+19     |questDirectionId02     |
+20     |questDirectionId03     |
+21     |questDirectionId04     |
+22     |questDirectionId05     |
+23     |questDirectionId06     |
+24     |questDirectionId07     |
+25     |characterTitleIdReward |

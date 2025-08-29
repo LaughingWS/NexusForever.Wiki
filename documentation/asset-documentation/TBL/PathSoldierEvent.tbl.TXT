@@ -1,0 +1,8 @@
+Column |Name                    |Description            |Links to or Called in                                         |Notes
+0      |ID                      | 
+1      |pathSoldierEventType    |
+2      |maxTimeBetweenWaves     |
+3      |maxEventTime            |
+4      |towerDefenseAllowance   |
+5      |towerDefenseBuildTimeMS |
+6      |initialSpawnTime        |

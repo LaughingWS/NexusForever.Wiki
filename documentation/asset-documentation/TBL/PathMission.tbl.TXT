@@ -1,0 +1,22 @@
+Column |Name                         |Description            |Links to or Called in                                         |Notes
+ 0     |ID                           |
+ 1     |creature2IdUnlock            |
+ 2     |pathTypeEnum                 |
+ 3     |pathMissionTypeEnum          |
+ 4     |pathMissionDisplayTypeEnum   |
+ 5     |objectId                     |
+ 6     |localizedTextIdName          |
+ 7     |localizedTextIdSummary       |
+ 8     |pathEpisodeId                |
+ 9     |worldLocation2Id00           |
+10     |worldLocation2Id01           |
+11     |worldLocation2Id02           |
+12     |worldLocation2Id03           |
+13     |pathMissionFlags             |
+14     |pathMissionFactionEnum       |
+15     |prerequisiteId               |
+16     |localizedTextIdCommunicator  |
+17     |localizedTextIdUnlock        |
+18     |localizedTextIdSoldierOrders |
+19     |creature2IdContactOverride   |
+20     |questDirectionId             |

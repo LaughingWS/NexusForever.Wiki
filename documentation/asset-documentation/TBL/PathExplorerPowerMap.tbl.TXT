@@ -1,0 +1,8 @@
+Column |Name                   |Description            |Links to or Called in                                         |Notes
+0      |ID                     |
+1      |distanceThreshold      |
+2      |collectQuantity        |
+3      |victoryPauseMS         |
+4      |worldLocation2IdVisual |
+5      |visualEffectIdInactive |
+6      |localizedTextIdInfo    |

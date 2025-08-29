@@ -1,0 +1,17 @@
+Column |Name                             |Description            |Links to or Called in                                         |Notes
+ 0     |ID                               |
+ 1     |positionX                        |
+ 2     |positionY                        |
+ 3     |primalMatrixNodeTypeEnum         |
+ 4     |flags                            |
+ 5     |maxAllocations                   |
+ 6     |costRedEssence                   |
+ 7     |costBlueEssence                  |
+ 8     |costGreenEssence                 |
+ 9     |costPurpleEssence                |
+10     |primalMatrixRewardIdWarrior      |
+11     |primalMatrixRewardIdEngineer     |
+12     |primalMatrixRewardIdEsper        |
+13     |primalMatrixRewardIdMedic        |
+14     |primalMatrixRewardIdStalker      |
+15     |primalMatrixRewardIdSpellslinger |

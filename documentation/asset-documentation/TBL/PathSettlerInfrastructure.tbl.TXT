@@ -1,0 +1,19 @@
+Column |Name                     |Description            |Links to or Called in                                         |Notes
+ 0     |ID                       |
+ 1     |pathSettlerHubId00       |
+ 2     |pathSettlerHubId01       |
+ 3     |localizedTextIdObjective |
+ 4     |missionCount             |
+ 5     |worldZoneId              |
+ 6     |count                    |
+ 7     |maxTime                  |
+ 8     |creature2IdDepot         |
+ 9     |creature2IdResource00    |
+10     |creature2IdResource01    |
+11     |creature2IdResource02    |
+12     |spell4IdResource00       |
+13     |spell4IdResource01       |
+14     |spell4IdResource02       |
+15     |maxStackCountResource00  |
+16     |maxStackCountResource01  |
+17     |maxStackCountResource02  |

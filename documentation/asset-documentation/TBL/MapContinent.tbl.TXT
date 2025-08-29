@@ -1,0 +1,14 @@
+Column |Name                |Description            |Links to or Called in                                         |Notes
+ 0     |ID                  |
+ 1     |localizedTextIdName |
+ 2     |assetPath           |
+ 3     |imagePath           |
+ 4     |imageWidth          |
+ 5     |imageHeight         |
+ 6     |imageOffsetX        |
+ 7     |imageOffsetY        |
+ 8     |hexMinX             |
+ 9     |hexMinY             |
+10     |hexLimX             |
+11     |hexLimY             |
+12     |flags               |

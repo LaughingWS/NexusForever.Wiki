@@ -1,0 +1,12 @@
+Column |Name                          |Description            |Links to or Called in                                         |Notes
+ 0     |ID                            |
+ 1     |pathRewardTypeEnum            |
+ 2     |objectId                      |
+ 3     |spell4Id                      |
+ 4     |item2Id                       |
+ 5     |quest2Id                      |
+ 6     |characterTitleId              |
+ 7     |prerequisiteId                |
+ 8     |count                         |
+ 9     |pathRewardFlags               |
+10     |pathScientistScanBotProfileId |

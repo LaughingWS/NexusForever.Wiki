@@ -1,0 +1,15 @@
+Column |Name                          |Description            |Links to or Called in                                         |Notes
+ 0     |ID                            |
+ 1     |scientistCreatureFlags        |
+ 2     |displayIcon                   |
+ 3     |prerequisiteIdScan            |
+ 4     |prerequisiteIdRawScan         |
+ 5     |prerequisiteIdScanCreature    |
+ 6     |prerequisiteIdRawScanCreature |
+ 7     |spell4IdBuff00                |
+ 8     |spell4IdBuff01                |
+ 9     |spell4IdBuff02                |
+10     |spell4IdBuff03                |
+11     |checklistCount                |
+12     |scientistCreatureTypeEnum     |
+13     |lootId                        |

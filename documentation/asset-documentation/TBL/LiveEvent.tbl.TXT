@@ -1,0 +1,17 @@
+Column |Name                                 |Description            |Links to or Called in                                         |Notes
+ 0     |ID                                   |
+ 1     |liveEventTypeEnum                    |
+ 2     |maxValue                             |
+ 3     |flags                                |
+ 4     |liveEventCategoryEnum                |
+ 5     |liveEventIdParent                    |
+ 6     |localizedTextIdName                  |
+ 7     |localizedTextIdSummary               |
+ 8     |iconPath                             |
+ 9     |iconPathButton                       |
+10     |spritePathTitle                      |
+11     |spritePathBackground                 |
+12     |currencyTypeIdEarned                 |
+13     |localizedTextIdCurrencyEarnedTooltip |
+14     |worldLocation2IdExile                |
+15     |worldLocation2IdDominion             |

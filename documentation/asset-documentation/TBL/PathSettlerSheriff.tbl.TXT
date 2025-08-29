@@ -1,0 +1,19 @@
+Column |Name                         |Description            |Links to or Called in                                         |Notes
+ 0     |ID                           |
+ 1     |quest2IdSheriff00            |
+ 2     |quest2IdSheriff01            |
+ 3     |quest2IdSheriff02            |
+ 4     |quest2IdSheriff03            |
+ 5     |quest2IdSheriff04            |
+ 6     |quest2IdSheriff05            |
+ 7     |quest2IdSheriff06            |
+ 8     |quest2IdSheriff07            |
+ 9     |localizedTextIdDescription00 |
+10     |localizedTextIdDescription01 |
+11     |localizedTextIdDescription02 |
+12     |localizedTextIdDescription03 |
+13     |localizedTextIdDescription04 |
+14     |localizedTextIdDescription05 |
+15     |localizedTextIdDescription06 |
+16     |localizedTextIdDescription07 |
+17     |characterTitleIdReward       |

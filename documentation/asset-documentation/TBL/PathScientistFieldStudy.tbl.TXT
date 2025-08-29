@@ -1,0 +1,29 @@
+Column |Name                         |Description            |Links to or Called in                                         |Notes
+ 0     |ID                           |
+ 1     |creature2Id                  |
+ 2     |targetGroupId                |
+ 3     |pathScientistFieldStudyFlags |
+ 4     |localizedTextIdChecklist00   |
+ 5     |localizedTextIdChecklist01   |
+ 6     |localizedTextIdChecklist02   |
+ 7     |localizedTextIdChecklist03   |
+ 8     |localizedTextIdChecklist04   |
+ 9     |localizedTextIdChecklist05   |
+10     |localizedTextIdChecklist06   |
+11     |localizedTextIdChecklist07   |
+12     |worldLocation2IdIndicator00  |
+13     |worldLocation2IdIndicator01  |
+14     |worldLocation2IdIndicator02  |
+15     |worldLocation2IdIndicator03  |
+16     |worldLocation2IdIndicator04  |
+17     |worldLocation2IdIndicator05  |
+18     |worldLocation2IdIndicator06  |
+19     |worldLocation2IdIndicator07  |
+20     |behaviorType00               |
+21     |behaviorType01               |
+22     |behaviorType02               |
+23     |behaviorType03               |
+24     |behaviorType04               |
+25     |behaviorType05               |
+26     |behaviorType06               |
+27     |behaviorType07               |
