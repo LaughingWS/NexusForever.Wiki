@@ -1,0 +1,50 @@
+Column |Name                             |Description            |Links to or Called in                                         |Notes
+ 0     |ID                               |
+ 1     |itemBudgetId                     |
+ 2     |itemStatId                       |
+ 3     |itemRuneInstanceId               |
+ 4     |itemQualityId                    |
+ 5     |itemSpecialId00                  |
+ 6     |itemImbuementId                  |
+ 7     |item2FamilyId                    |
+ 8     |item2CategoryId                  |
+ 9     |item2TypeId                      |
+10     |itemDisplayId                    |
+11     |itemSourceId                     |
+12     |classRequired                    |
+13     |raceRequired                     |
+14     |faction2IdRequired               |
+15     |powerLevel                       |
+16     |requiredLevel                    |
+17     |requiredItemLevel                |
+18     |prerequisiteId                   |
+19     |equippedSlotFlags                |
+20     |maxStackCount                    |
+21     |maxCharges                       |
+22     |expirationTimeMinutes            |
+23     |quest2IdActivation               |
+24     |quest2IdActivationRequired       |
+25     |questObjectiveActivationRequired |
+26     |tradeskillAdditiveId             |
+27     |tradeskillCatalystId             |
+28     |housingDecorInfoId               |
+29     |housingWarplotBossTokenId        |
+30     |genericUnlockSetId               |
+31     |flags                            |
+32     |bindFlags                        |
+33     |buyFromVendorStackCount          |
+34     |currencyTypeId0                  |
+35     |currencyTypeId1                  |
+36     |currencyAmount0                  |
+37     |currencyAmount1                  |
+38     |currencyTypeId0SellToVendor      |
+39     |currencyTypeId1SellToVendor      |
+40     |currencyAmount0SellToVendor      |
+41     |currencyAmount1SellToVendor      |
+42     |itemColorSetId                   |
+43     |supportPowerPercentage           |
+44     |localizedTextIdName              |
+45     |localizedTextIdTooltip           |
+46     |buttonTemplate                   |
+47     |buttonIcon                       |
+48     |soundEventIdEquip                |

@@ -1,0 +1,49 @@
+Column |Name                                  |Description            |Links to or Called in                                         |Notes
+ 0     |ID                                    |
+ 1     |localizedTextIdName                   |
+ 2     |housingPlotTypeId                     |
+ 3     |localizedTextIdTooltip                |
+ 4     |worldIdPlug00                         |
+ 5     |worldIdPlug01                         |
+ 6     |worldIdPlug02                         |
+ 7     |worldIdPlug03                         |
+ 8     |flags                                 |
+ 9     |housingResourceIdProvided00           |
+10     |housingResourceIdProvided01           |
+11     |housingResourceIdProvided02           |
+12     |housingResourceIdProvided03           |
+13     |housingResourceIdProvided04           |
+14     |housingResourceIdPrerequisite00       |
+15     |housingResourceIdPrerequisite01       |
+16     |housingResourceIdPrerequisite02       |
+17     |housingFeatureTypeFlags               |
+18     |housingContributionInfoId00           |
+19     |housingContributionInfoId01           |
+20     |housingContributionInfoId02           |
+21     |housingContributionInfoId03           |
+22     |housingContributionInfoId04           |
+23     |housingPlugItemIdNextUpgrade          |
+24     |localizedTextIdPrereqTooltip00        |
+25     |localizedTextIdPrereqTooltip01        |
+26     |localizedTextIdPrereqTooltip02        |
+27     |prerequisiteId00                      |
+28     |prerequisiteId01                      |
+29     |prerequisiteId02                      |
+30     |prerequisiteIdUnlock                  |
+31     |housingBuildId                        |
+32     |housingUpkeepTypeEnum                 |
+33     |upkeepCharges                         |
+34     |upkeepTime                            |
+35     |housingContributionInfoIdUpkeepCost00 |
+36     |housingContributionInfoIdUpkeepCost01 |
+37     |housingContributionInfoIdUpkeepCost02 |
+38     |housingContributionInfoIdUpkeepCost03 |
+39     |housingContributionInfoIdUpkeepCost04 |
+40     |gameFormulaIdHousingBuildBonus        |
+41     |screenshotSprite00                    |
+42     |screenshotSprite01                    |
+43     |screenshotSprite02                    |
+44     |screenshotSprite03                    |
+45     |screenshotSprite04                    |
+46     |housingPlugTypeEnum                   |
+47     |accountItemIdUpsell                   |

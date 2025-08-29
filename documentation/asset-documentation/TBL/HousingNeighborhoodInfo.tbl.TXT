@@ -1,0 +1,10 @@
+Column |Name                      |Description            |Links to or Called in                                         |Notes
+0      |ID                        |
+1      |baseCost                  |
+2      |maxPopulation             |
+3      |populationThreshold       |
+4      |housingFactionEnum        |
+5      |housingFeatureTypeEnum    |
+6      |housingPlaystyleTypeEnum  |
+7      |housingMapInfoIdPrimary   |
+8      |housingMapInfoIdSecondary |

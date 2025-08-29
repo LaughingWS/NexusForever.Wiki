@@ -1,0 +1,45 @@
+Column |Name                      |Description            |Links to or Called in                                         |Notes
+ 0     |ID                        |
+ 1     |description               |
+ 2     |item2TypeId               |
+ 3     |objectModel               |
+ 4     |objectModelL              |
+ 5     |objectTexture0            |
+ 6     |objectTexture1            |
+ 7     |modelTextureIdObject00    |
+ 8     |modelTextureIdObject01    |
+ 9     |skinnedModel              |
+10     |skinnedModelL             |
+11     |skinnedTexture0           |
+12     |skinnedTexture1           |
+13     |modelTextureIdSkinned00   |
+14     |modelTextureIdSkinned01   |
+15     |attachedModel             |
+16     |modelAttachmentIdAttached |
+17     |attachedTexture0          |
+18     |attachedTexture1          |
+19     |modelTextureIdAttached00  |
+20     |modelTextureIdAttached01  |
+21     |componentRegionFlags      |
+22     |componentPriority         |
+23     |skinMaskMap               |
+24     |skinColorMap              |
+25     |skinNormalMap             |
+26     |skinDyeMap                |
+27     |armorMaskMap              |
+28     |armorColorMap             |
+29     |armorNormalMap            |
+30     |armorDyeMap               |
+31     |modelMeshId00             |
+32     |modelMeshId01             |
+33     |modelMeshId02             |
+34     |modelMeshId03             |
+35     |soundImpactDescriptionId  |
+36     |ItemVisualTypeId          |
+37     |soundReplaceDescriptionId |
+38     |itemColorSetId            |
+39     |dyeChannelFlags           |
+40     |modelPoseId               |
+41     |modelPoseBlend            |
+42     |shaderPreset00            |
+43     |shaderPreset01            |

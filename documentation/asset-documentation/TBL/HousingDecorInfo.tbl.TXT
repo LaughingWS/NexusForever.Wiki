@@ -1,0 +1,17 @@
+Column |Name                        |Description            |Links to or Called in                                         |Notes
+ 0     |ID                          |
+ 1     |housingDecorTypeId          |
+ 2     |hookTypeId                  |
+ 3     |localizedTextIdName         |
+ 4     |flags                       |
+ 5     |hookAssetId                 |
+ 6     |cost                        |
+ 7     |costCurrencyTypeId          |
+ 8     |creature2IdActiveProp       |
+ 9     |prerequisiteIdUnlock        |
+10     |spell4IdInteriorBuff        |
+11     |housingDecorLimitCategoryId |
+12     |altPreviewAsset             |
+13     |altEditAsset                |
+14     |minScale                    |
+15     |maxScale                    |

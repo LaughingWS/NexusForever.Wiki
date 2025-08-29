@@ -1,0 +1,14 @@
+Column |Name                |Description            |Links to or Called in                                         |Notes
+ 0     |ID                  |
+ 1     |definedSocketCount  |
+ 2     |definedSocketType00 |
+ 3     |definedSocketType01 |
+ 4     |definedSocketType02 |
+ 5     |definedSocketType03 |
+ 6     |definedSocketType04 |
+ 7     |definedSocketType05 |
+ 8     |definedSocketType06 |
+ 9     |definedSocketType07 |
+10     |itemSetId           |
+11     |itemSetPower        |
+12     |socketCountMax      |

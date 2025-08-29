@@ -1,0 +1,15 @@
+Column |Name                     |Description            |Links to or Called in                                         |Notes
+ 0     |ID                       |
+ 1     |description              |
+ 2     |texturePath              |
+ 3     |modelPath                |
+ 4     |priority                 |
+ 5     |fullScreenEffectTypeEnum |
+ 6     |alphaMinStart            |
+ 7     |alphaMinEnd              |
+ 8     |alphaStart               |
+ 9     |alphaEnd                 |
+10     |hzStart                  |
+11     |hzEnd                    |
+12     |saturationStart          |
+13     |saturationEnd            |

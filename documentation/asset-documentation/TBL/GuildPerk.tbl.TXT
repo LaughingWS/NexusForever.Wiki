@@ -1,0 +1,13 @@
+Column |Name                       |Description            |Links to or Called in                                         |Notes
+ 0     |ID                         |
+ 1     |localizedTextIdTitle       |
+ 2     |localizedTextIdDescription |
+ 3     |luaSprite                  |
+ 4     |luaName                    |
+ 5     |purchaseInfluenceCost      |
+ 6     |activateInfluenceCost      |
+ 7     |spell4IdActivate           |
+ 8     |guildPerkIdRequired00      |
+ 9     |guildPerkIdRequired01      |
+10     |guildPerkIdRequired02      |
+11     |achievementIdRequired      |

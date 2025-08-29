@@ -1,0 +1,32 @@
+Column |Name                    |Description            |Links to or Called in                                         |Notes
+ 0     |ID                      |
+ 1     |quest2Id00              |
+ 2     |quest2Id01              |
+ 3     |quest2Id02              |
+ 4     |quest2Id03              |
+ 5     |quest2Id04              |
+ 6     |quest2Id05              |
+ 7     |quest2Id06              |
+ 8     |quest2Id07              |
+ 9     |quest2Id08              |
+10     |quest2Id09              |
+11     |quest2Id10              |
+12     |quest2Id11              |
+13     |quest2Id12              |
+14     |quest2Id13              |
+15     |quest2Id14              |
+16     |itemImbuementRewardId00 |
+17     |itemImbuementRewardId01 |
+18     |itemImbuementRewardId02 |
+19     |itemImbuementRewardId03 |
+20     |itemImbuementRewardId04 |
+21     |itemImbuementRewardId05 |
+22     |itemImbuementRewardId06 |
+23     |itemImbuementRewardId07 |
+24     |itemImbuementRewardId08 |
+25     |itemImbuementRewardId09 |
+26     |itemImbuementRewardId10 |
+27     |itemImbuementRewardId11 |
+28     |itemImbuementRewardId12 |
+29     |itemImbuementRewardId13 |
+30     |itemImbuementRewardId14 |

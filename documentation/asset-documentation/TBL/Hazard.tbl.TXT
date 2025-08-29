@@ -1,0 +1,16 @@
+Column |Name                    |Description            |Links to or Called in                                         |Notes
+ 0     |ID                      |
+ 1     |localizedTextIdName     |
+ 2     |localizedTextIdTooltip  |
+ 3     |meterChangeRate         |
+ 4     |meterMaxValue           |
+ 5     |flags                   |
+ 6     |hazardTypeEnum          |
+ 7     |spell4IdDamage          |
+ 8     |minDistanceToUnit       |
+ 9     |meterThreshold00        |
+10     |meterThreshold01        |
+11     |meterThreshold02        |
+12     |spell4IdThresholdProc00 |
+13     |spell4IdThresholdProc01 |
+14     |spell4IdThresholdProc02 |

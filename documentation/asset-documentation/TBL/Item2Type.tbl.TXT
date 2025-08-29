@@ -1,0 +1,13 @@
+Column |Name              |Description            |Links to or Called in                                         |Notes
+ 0     |ID                |
+ 1     |localizedTextId   |
+ 2     |itemSlotId        |
+ 3     |soundEventIdLoot  |
+ 4     |soundEventIdEquip |
+ 5     |flags             |
+ 6     |vendorMultiplier  |
+ 7     |turninMultiplier  |
+ 8     |Item2CategoryId   |
+ 9     |referenceMuzzleX  |
+10     |referenceMuzzleY  |
+11     |referenceMuzzleZ  |

@@ -1,0 +1,19 @@
+Column |Name              |Description            |Links to or Called in                                         |Notes
+ 0     |ID                |
+ 1     |housingPlugItemId |
+ 2     |maintenanceCost   |
+ 3     |upgradeCost00     |
+ 4     |upgradeCost01     |
+ 5     |upgradeCost02     |
+ 6     |spell4IdAbility00 |
+ 7     |spell4IdAbility01 |
+ 8     |spell4IdAbility02 |
+ 9     |spell4IdAbility03 |
+10     |spell4IdAbility04 |
+11     |spell4IdAbility05 |
+12     |spell4IdAbility06 |
+13     |spell4IdAbility07 |
+14     |spell4IdAbility08 |
+15     |spell4IdAbility09 |
+16     |spell4IdAbility10 |
+17     |spell4IdAbility11 |

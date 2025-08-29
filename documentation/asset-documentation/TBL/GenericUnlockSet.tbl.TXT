@@ -1,0 +1,9 @@
+Column |Name                   |Description            |Links to or Called in                                         |Notes
+0      |ID                     |
+1      |genericUnlockScopeEnum |
+2      |genericUnlockEntryId00 |
+3      |genericUnlockEntryId01 |
+4      |genericUnlockEntryId02 |
+5      |genericUnlockEntryId03 |
+6      |genericUnlockEntryId04 |
+7      |genericUnlockEntryId05 |

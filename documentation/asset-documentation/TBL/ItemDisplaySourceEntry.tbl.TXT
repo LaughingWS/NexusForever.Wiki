@@ -1,0 +1,8 @@
+Column |Name          |Description            |Links to or Called in                                         |Notes
+0      |ID            |
+1      |itemSourceId  |
+2      |item2TypeId   |
+3      |itemMinLevel  |
+4      |itemMaxLevel  |
+5      |itemDisplayId |
+6      |icon          |

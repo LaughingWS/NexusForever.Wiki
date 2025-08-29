@@ -1,0 +1,7 @@
+Column |Name              |Description            |Links to or Called in                                         |Notes
+0      |ID                |
+1      |localizedTextId   |
+2      |flags             |
+3      |soundEventIdEquip |
+4      |vendorMultiplier  |
+5      |turninMultiplier  |

@@ -1,0 +1,6 @@
+Column |Name                        |Description            |Links to or Called in                                         |Notes
+0      |ID                          |
+1      |itemImbuementRewardTypeEnum |
+2      |rewardObjectId              |
+3      |rewardValue                 |
+4      |rewardValueFloat            |

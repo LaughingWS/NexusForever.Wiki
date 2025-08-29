@@ -1,0 +1,14 @@
+Column |Name                         |Description            |Links to or Called in                                         |Notes
+ 0     |ID                           |
+ 1     |housingContributionTypeId    |
+ 2     |contributionPointRequirement |
+ 3     |item2IdTier00                |
+ 4     |item2IdTier01                |
+ 5     |item2IdTier02                |
+ 6     |item2IdTier03                |
+ 7     |item2IdTier04                |
+ 8     |contributionPointValueTier00 |
+ 9     |contributionPointValueTier01 |
+10     |contributionPointValueTier02 |
+11     |contributionPointValueTier03 |
+12     |contributionPointValueTier04 |

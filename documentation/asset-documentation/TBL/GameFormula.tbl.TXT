@@ -1,0 +1,12 @@
+Column |Name                   |Description            |Links to or Called in                                         |Notes
+ 0     |ID                     |
+ 1     |dataint0               |
+ 2     |dataint01              |
+ 3     |dataint02              |
+ 4     |dataint03              |
+ 5     |dataint04              |
+ 6     |datafloat0             |
+ 7     |datafloat01            |
+ 8     |datafloat02            |
+ 9     |datafloat03            |
+10     |datafloat04            |

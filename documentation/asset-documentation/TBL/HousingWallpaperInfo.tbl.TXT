@@ -1,0 +1,17 @@
+Column |Name                      |Description            |Links to or Called in                                         |Notes
+ 0     |ID                        |
+ 1     |localizedTextId           |
+ 2     |cost                      |
+ 3     |costCurrencyTypeId        |
+ 4     |replaceableMaterialInfoId |
+ 5     |worldSkyId                |
+ 6     |flags                     |
+ 7     |prerequisiteIdUnlock      |
+ 8     |prerequisiteIdUse         |
+ 9     |unlockIndex               |
+10     |soundZoneKitId            |
+11     |worldLayerId00            |
+12     |worldLayerId01            |
+13     |worldLayerId02            |
+14     |worldLayerId03            |
+15     |accountItemIdUpsell       |

@@ -1,0 +1,23 @@
+Column |Name                  |Description            |Links to or Called in                                         |Notes
+ 0     |ID                    |
+ 1     |description           |
+ 2     |assetPath             |
+ 3     |constructionEffectsId |
+ 4     |buildPreDelayTimeMS   |
+ 5     |buildPostDelayTimeMS  |
+ 6     |buildTime00           |
+ 7     |buildTime01           |
+ 8     |buildTime02           |
+ 9     |buildTime03           |
+10     |buildTime04           |
+11     |buildTime05           |
+12     |buildTime06           |
+13     |buildTime07           |
+14     |modelSequenceId00     |
+15     |modelSequenceId01     |
+16     |modelSequenceId02     |
+17     |modelSequenceId03     |
+18     |modelSequenceId04     |
+19     |modelSequenceId05     |
+20     |modelSequenceId06     |
+21     |modelSequenceId07     |

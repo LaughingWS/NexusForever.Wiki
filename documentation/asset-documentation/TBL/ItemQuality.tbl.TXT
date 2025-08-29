@@ -1,0 +1,14 @@
+Column |Name                           |Description            |Links to or Called in                                         |Notes
+ 0     |ID                             |
+ 1     |salvageCritChance              |
+ 2     |turninMultiplier               |
+ 3     |runeCostMultiplier             |
+ 4     |dyeCostMultiplier              |
+ 5     |visualEffectIdLoot             |
+ 6     |iconColorR                     |
+ 7     |iconColorG                     |
+ 8     |iconColorB                     |
+ 9     |defaultRunes                   |
+10     |maxRunes                       |
+11     |assetPathDieModel              |
+12     |soundEventIdFortuneCardFanfare |

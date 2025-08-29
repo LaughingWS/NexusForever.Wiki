@@ -1,0 +1,7 @@
+Column |Name                     |Description            |Links to or Called in                                         |Notes
+0      |ID                       |
+1      |worldSocketId            |
+2      |plotType                 |
+3      |housingPropertyInfoId    |
+4      |housingPropertyPlotIndex |
+5      |housingPlugItemIdDefault |

@@ -1,0 +1,5 @@
+Column |Name             |Description            |Links to or Called in                                         |Notes
+0      |ID               |
+1      |dyeColorRampId00 |
+2      |dyeColorRampId01 |
+3      |dyeColorRampId02 |

@@ -1,0 +1,14 @@
+Column |Name                              |Description            |Links to or Called in                                         |Notes
+ 0     |ID                                |
+ 1     |housingDecorInfoIdDefaultRoof     |
+ 2     |housingDecorInfoIdDefaultEntryway |
+ 3     |housingDecorInfoIdDefaultDoor     |
+ 4     |housingWallpaperInfoIdDefault     |
+ 5     |worldLocation2IdInside00          |
+ 6     |worldLocation2IdInside01          |
+ 7     |worldLocation2IdInside02          |
+ 8     |worldLocation2IdInside03          |
+ 9     |worldLocation2IdOutside00         |
+10     |worldLocation2IdOutside01         |
+11     |worldLocation2IdOutside02         |
+12     |worldLocation2IdOutside03         |
