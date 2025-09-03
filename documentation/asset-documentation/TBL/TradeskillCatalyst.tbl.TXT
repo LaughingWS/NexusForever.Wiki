@@ -1,0 +1,14 @@
+Column |Name                     |Description            |Links to or Called in                                         |Notes
+ 0     |ID                       |Main ID
+ 1     |tradeSkillId             |
+ 2     |tier                     |
+ 3     |tradeskillCatalystEnum00 |
+ 4     |tradeskillCatalystEnum01 |
+ 5     |tradeskillCatalystEnum02 |
+ 6     |tradeskillCatalystEnum03 |
+ 7     |tradeskillCatalystEnum04 |
+ 8     |value00                  |
+ 9     |value01                  |
+10     |value02                  |
+11     |value03                  |
+12     |value04                  |

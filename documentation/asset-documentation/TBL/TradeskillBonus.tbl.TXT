@@ -1,0 +1,25 @@
+Column |Name                   |Description            |Links to or Called in                                         |Notes
+ 0     |ID                     |Main ID
+ 1     |tradeSkillTierId       |
+ 2     |achievementId          |
+ 3     |iconPath               |
+ 4     |localizedTextIdName    |
+ 5     |localizedTextIdTooltip |
+ 6     |tradeskillBonusEnum00  |
+ 7     |tradeskillBonusEnum01  |
+ 8     |tradeskillBonusEnum02  |
+ 9     |objectIdPrimary00      |
+10     |objectIdPrimary01      |
+11     |objectIdPrimary02      |
+12     |objectIdSecondary00    |
+13     |objectIdSecondary01    |
+14     |objectIdSecondary02    |
+15     |objectIdTertiary00     |
+16     |objectIdTertiary01     |
+17     |objectIdTertiary02     |
+18     |value00                |
+19     |value01                |
+20     |value02                |
+21     |valueInt00             |
+22     |valueInt01             |
+23     |valueInt02             |

@@ -1,0 +1,11 @@
+Column |Name                         |Description            |Links to or Called in                                         |Notes
+0      |ID                           |Main ID
+1      |localizedTextIdDisplayString |
+2      |type                         |
+3      |data0                        |
+4      |data1                        |
+5      |data2                        |
+6      |data3                        |
+7      |data4                        |
+8      |data5                        |
+9      |data6                        |

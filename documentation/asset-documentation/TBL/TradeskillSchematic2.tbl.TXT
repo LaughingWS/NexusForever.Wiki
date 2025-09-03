@@ -1,0 +1,33 @@
+Column |Name                         |Description            |Links to or Called in                                         |Notes
+ 0     |ID                           |Main ID
+ 1     |localizedTextIdName          |
+ 2     |tradeSkillId                 |
+ 3     |item2IdOutput                |
+ 4     |item2IdOutputFail            |
+ 5     |outputCount                  |
+ 6     |lootId                       |
+ 7     |tier                         |
+ 8     |flags                        |
+ 9     |item2IdMaterial00            |
+10     |item2IdMaterial01            |
+11     |item2IdMaterial02            |
+12     |item2IdMaterial03            |
+13     |item2IdMaterial04            |
+14     |materialCost00               |
+15     |materialCost01               |
+16     |materialCost02               |
+17     |materialCost03               |
+18     |materialCost04               |
+19     |tradeskillSchematic2IdParent |
+20     |vectorX                      |
+21     |vectorY                      |
+22     |radius                       |
+23     |critRadius                   |
+24     |item2IdOutputCrit            |
+25     |outputCountCritBonus         |
+26     |priority                     |
+27     |maxAdditives                 |
+28     |discoverableQuadrant         |
+29     |discoverableRadius           |
+30     |discoverableAngle            |
+31     |tradeskillCatalystOrderingId |

@@ -1,0 +1,12 @@
+Column |Name                |Description            |Links to or Called in                                         |Notes
+ 0     |ID                  |Main ID
+ 1     |localizedTextId     |
+ 2     |taxiNodeTypeEnum    |
+ 3     |flags               |
+ 4     |flightPathTypeEnum  |
+ 5     |taxiNodeFactionEnum |
+ 6     |worldLocation2Id    |
+ 7     |contentTier         |
+ 8     |autoUnlockLevel     |
+ 9     |recommendedMinLevel |
+10     |recommendedMaxLevel |

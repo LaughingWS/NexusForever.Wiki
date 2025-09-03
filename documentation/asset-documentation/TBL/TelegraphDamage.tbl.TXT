@@ -1,0 +1,26 @@
+Column |Name                           |Description            |Links to or Called in                                         |Notes
+ 0     |ID                             |Main ID
+ 1     |telegraphSubtypeEnum           |
+ 2     |damageShapeEnum                |
+ 3     |param00                        |
+ 4     |param01                        |
+ 5     |param02                        |
+ 6     |param03                        |
+ 7     |param04                        |
+ 8     |param05                        |
+ 9     |telegraphTimeStartMs           |
+10     |telegraphTimeEndMs             |
+11     |telegraphTimeRampInMs          |
+12     |telegraphTimeRampOutMs         |
+13     |xPositionOffset                |
+14     |yPositionOffset                |
+15     |zPositionOffset                |
+16     |rotationDegrees                |
+17     |telegraphDamageFlags           |
+18     |targetTypeFlags                |
+19     |phaseFlags                     |
+20     |prerequisiteIdCaster           |
+21     |spellThresholdRestrictionFlags |
+22     |displayFlags                   |
+23     |opacityModifier                |
+24     |displayGroup                   |

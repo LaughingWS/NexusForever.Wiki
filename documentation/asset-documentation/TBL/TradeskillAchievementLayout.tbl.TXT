@@ -1,0 +1,10 @@
+Column |Name                  |Description            |Links to or Called in                                         |Notes
+0      |ID                    |Main ID
+1      |achievementId         |
+2      |achievementIdParent00 |
+3      |achievementIdParent01 |
+4      |achievementIdParent02 |
+5      |achievementIdParent03 |
+6      |achievementIdParent04 |
+7      |gridX                 |
+8      |gridY                 |

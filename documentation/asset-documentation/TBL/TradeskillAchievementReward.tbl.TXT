@@ -1,0 +1,14 @@
+Column |Name                    |Description            |Links to or Called in                                         |Notes
+ 0     |ID                      |Main ID
+ 1     |achievementId           |
+ 2     |faction2Id              |
+ 3     |factionIdAmount         |
+ 4     |talentPoints            |
+ 5     |tradeSkillSchematicId00 |
+ 6     |tradeSkillSchematicId01 |
+ 7     |tradeSkillSchematicId02 |
+ 8     |tradeSkillSchematicId03 |
+ 9     |tradeSkillSchematicId04 |
+10     |tradeSkillSchematicId05 |
+11     |tradeSkillSchematicId06 |
+12     |tradeSkillSchematicId07 |
