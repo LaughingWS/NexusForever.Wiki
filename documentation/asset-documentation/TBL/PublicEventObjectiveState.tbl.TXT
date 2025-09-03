@@ -1,0 +1,18 @@
+Column |Name                   |Description            |Links to or Called in                                         |Notes
+ 0     |ID                     |Main ID
+ 1     |localizedTextIdState00 |
+ 2     |localizedTextIdState01 |
+ 3     |localizedTextIdState02 |
+ 4     |localizedTextIdState03 |
+ 5     |localizedTextIdState04 |
+ 6     |localizedTextIdState05 |
+ 7     |localizedTextIdState06 |
+ 8     |localizedTextIdState07 |
+ 9     |localizedTextIdState08 |
+10     |localizedTextIdState09 |
+11     |localizedTextIdState10 |
+12     |localizedTextIdState11 |
+13     |localizedTextIdState12 |
+14     |localizedTextIdState13 |
+15     |localizedTextIdState14 |
+16     |localizedTextIdState15 |

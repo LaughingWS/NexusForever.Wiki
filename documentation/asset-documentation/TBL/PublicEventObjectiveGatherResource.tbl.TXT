@@ -1,0 +1,9 @@
+Column |Name                                         |Description            |Links to or Called in                                         |Notes
+0      |ID                                           |Main ID
+1      |publicEventObjectiveGatherResourceEnumFlag   |
+2      |creature2IdContainer                         |
+3      |creature2IdResource                          |
+4      |spell4IdResource                             |
+5      |creature2IdStolenResource                    |
+6      |spell4IdStolenResource                       |
+7      |publicEventObjectiveGatherResourceIdOpposing |

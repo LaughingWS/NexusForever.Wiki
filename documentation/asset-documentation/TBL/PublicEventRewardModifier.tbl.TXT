@@ -1,0 +1,6 @@
+Column |Name             |Description            |Links to or Called in                                         |Notes
+0      |ID               |Main ID
+1      |publicEventId    |
+2      |rewardPropertyId |
+3      |data             |
+4      |offset           |

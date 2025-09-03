@@ -1,0 +1,10 @@
+Column |Name                      |Description            |Links to or Called in                                         |Notes
+0      |ID                        |Main ID
+1      |spell4EffectsId           |
+2      |modificationParameterEnum |
+3      |priority                  |
+4      |modificationTypeEnum      |
+5      |data00                    |
+6      |data01                    |
+7      |data02                    |
+8      |data03                    |

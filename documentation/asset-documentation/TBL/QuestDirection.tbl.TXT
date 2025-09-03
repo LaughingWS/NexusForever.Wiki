@@ -1,0 +1,20 @@
+Column |Name                    |Description            |Links to or Called in                                         |Notes
+ 0     |ID                      |Main ID
+ 1     |questDirectionFlags     |
+ 2     |questDirectionEntryId00 |
+ 3     |questDirectionEntryId01 |
+ 4     |questDirectionEntryId02 |
+ 5     |questDirectionEntryId03 |
+ 6     |questDirectionEntryId04 |
+ 7     |questDirectionEntryId05 |
+ 8     |questDirectionEntryId06 |
+ 9     |questDirectionEntryId07 |
+10     |questDirectionEntryId08 |
+11     |questDirectionEntryId09 |
+12     |questDirectionEntryId10 |
+13     |questDirectionEntryId11 |
+14     |questDirectionEntryId12 |
+15     |questDirectionEntryId13 |
+16     |questDirectionEntryId14 |
+17     |questDirectionEntryId15 |
+18     |worldZoneIdExcludedZone |

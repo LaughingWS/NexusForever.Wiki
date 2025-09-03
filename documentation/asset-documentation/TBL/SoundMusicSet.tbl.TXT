@@ -1,0 +1,7 @@
+Column |Name              |Description            |Links to or Called in                                         |Notes
+0      |ID                |Main ID
+1      |soundEventIdStart |
+2      |soundEventIdStop  |
+3      |restartDelayMin   |
+4      |restartDelayMax   |
+5      |flags             |

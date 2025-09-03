@@ -1,0 +1,20 @@
+Column |Name                   |Description            |Links to or Called in                                         |Notes
+ 0     |ID                     |Main ID
+ 1     |rewardTrackTypeEnum    |
+ 2     |prerequisiteId         |
+ 3     |localizedTextId        |
+ 4     |localizedTextIdSummary |
+ 5     |assetPathImage         |
+ 6     |assetPathButtonImage   |
+ 7     |rewardPointCost00      |
+ 8     |rewardPointCost01      |
+ 9     |rewardPointCost02      |
+10     |rewardPointCost03      |
+11     |rewardPointCost04      |
+12     |rewardPointCost05      |
+13     |rewardPointCost06      |
+14     |rewardPointCost07      |
+15     |rewardPointCost08      |
+16     |rewardPointCost09      |
+17     |rewardTrackIdParent    |
+18     |flags                  |

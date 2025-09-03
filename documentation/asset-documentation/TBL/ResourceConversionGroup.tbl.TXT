@@ -1,0 +1,9 @@
+Column |Name                   |Description            |Links to or Called in                                         |Notes
+0      |ID                     |Main ID
+1      |flags                  |
+2      |resourceConversionId00 |
+3      |resourceConversionId01 |
+4      |resourceConversionId02 |
+5      |resourceConversionId03 |
+6      |resourceConversionId04 |
+7      |resourceConversionId05 |

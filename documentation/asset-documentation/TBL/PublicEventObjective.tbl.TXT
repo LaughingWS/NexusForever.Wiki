@@ -1,0 +1,24 @@
+Column |Name                                  |Description            |Links to or Called in                                         |Notes
+ 0     |ID                                    |Main ID
+ 1     |publicEventId                         |
+ 2     |publicEventObjectiveFlags             |
+ 3     |publicEventObjectiveTypeSpecificFlags |
+ 4     |worldLocation2Id                      |
+ 5     |publicEventTeamId                     |
+ 6     |localizedTextId                       |
+ 7     |localizedTextIdOtherTeam              |
+ 8     |localizedTextIdShort                  |
+ 9     |localizedTextIdOtherTeamShort         |
+10     |publicEventObjectiveTypeEnum          |
+11     |count                                 |
+12     |objectId                              |
+13     |failureTimeMs                         |
+14     |targetGroupIdRewardPane               |
+15     |publicEventObjectiveCategoryEnum      |
+16     |liveEventIdCounter                    |
+17     |publicEventObjectiveIdParent          |
+18     |questDirectionId                      |
+19     |medalPointValue                       |
+20     |localizedTextIdParticipantAdd         |
+21     |localizedTextIdStart                  |
+22     |displayOrder                          |

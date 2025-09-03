@@ -1,0 +1,17 @@
+Column |Name                        |Description            |Links to or Called in                                         |Notes
+ 0     |ID                          |Main ID
+ 1     |rewardTrackId               |
+ 2     |rewardPointFlags            |
+ 3     |prerequisiteId              |
+ 4     |flags                       |
+ 5     |currencyTypeId              |
+ 6     |currencyAmount              |
+ 7     |rewardTrackRewardTypeEnum00 |
+ 8     |rewardTrackRewardTypeEnum01 |
+ 9     |rewardTrackRewardTypeEnum02 |
+10     |rewardChoiceId00            |
+11     |rewardChoiceId01            |
+12     |rewardChoiceId02            |
+13     |rewardChoiceCount00         |
+14     |rewardChoiceCount01         |
+15     |rewardChoiceCount02         |

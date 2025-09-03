@@ -1,0 +1,9 @@
+Column |Name            |Description            |Links to or Called in                                         |Notes
+0      |ID              |Main ID
+1      |creature2Id     |
+2      |virtualItemId00 |
+3      |virtualItemId01 |
+4      |virtualItemId02 |
+5      |virtualItemId03 |
+6      |virtualItemId04 |
+7      |virtualItemId05 |

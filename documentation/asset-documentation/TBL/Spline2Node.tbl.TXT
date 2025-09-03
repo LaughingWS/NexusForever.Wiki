@@ -1,0 +1,15 @@
+Column |Name      |Description    |Links to or Called in                                         |Notes
+ 0     |ID        |Main ID        |
+ 1     |splineId  |               |
+ 2     |ordinal   |               |
+ 3     |position0 | X coordinates |
+ 4     |position1 | Y coordinates |
+ 5     |position2 | Z coordinates |
+ 6     |facing0   |               |
+ 7     |facing1   |               |
+ 8     |facing2   |               |
+ 9     |facing3   |               |
+10     |eventId   |               |
+11     |frameTime |               |
+12     |delay     |               |
+13     |fovy      |               |

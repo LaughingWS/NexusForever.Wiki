@@ -1,0 +1,43 @@
+Column |Name                            |Description            |Links to or Called in                                         |Notes
+ 0     |ID                              |Main ID
+ 1     |spellId                         |
+ 2     |targetFlags                     |
+ 3     |effectType                      |
+ 4     |damageType                      |
+ 5     |delayTime                       |
+ 6     |tickTime                        |
+ 7     |durationTime                    |
+ 8     |flags                           |
+ 9     |dataBits00                      |
+10     |dataBits01                      |
+11     |dataBits02                      |
+12     |dataBits03                      |
+13     |dataBits04                      |
+14     |dataBits05                      |
+15     |dataBits06                      |
+16     |dataBits07                      |
+17     |dataBits08                      |
+18     |dataBits09                      |
+19     |innateCostPerTickType0          |
+20     |innateCostPerTickType1          |
+21     |innateCostPerTick0              |
+22     |innateCostPerTick1              |
+23     |emmComparison                   |
+24     |emmValue                        |
+25     |threatMultiplier                |
+26     |spell4EffectGroupListId         |
+27     |prerequisiteIdCasterApply       |
+28     |prerequisiteIdTargetApply       |
+29     |prerequisiteIdCasterPersistence |
+30     |prerequisiteIdTargetPersistence |
+31     |prerequisiteIdTargetSuspend     |
+32     |parameterType00                 |
+33     |parameterType01                 |
+34     |parameterType02                 |
+35     |parameterType03                 |
+36     |parameterValue00                |
+37     |parameterValue01                |
+38     |parameterValue02                |
+39     |parameterValue03                |
+40     |phaseFlags                      |
+41     |orderIndex                      |

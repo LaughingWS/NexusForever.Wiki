@@ -1,0 +1,6 @@
+Column |Name      |Description            |Links to or Called in                                         |Notes
+0      |ID        |Main ID
+1      |origin    |
+2      |target    |
+3      |qualifier |
+4      |event     |

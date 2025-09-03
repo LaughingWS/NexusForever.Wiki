@@ -1,0 +1,113 @@
+Column |Name                                      |Description            |Links to or Called in                                         |Notes
+  0    |ID                                        |Main ID
+  1    |localizedTextIdTitle                      |
+  2    |localizedTextIdText                       |
+  3    |flags                                     |
+  4    |conLevel                                  |
+  5    |type                                      |
+  6    |preq_level                                |
+  7    |preq_flags                                |
+  8    |preq_quest0                               |
+  9    |preq_quest01                              |
+ 10    |preq_quest02                              |
+ 11    |preq_race                                 |
+ 12    |preq_item                                 |
+ 13    |questPlayerFactionEnum                    |
+ 14    |worldZoneId                               |
+ 15    |localizedTextIdCompletionOverride         |
+ 16    |reward_xpOverride                         |
+ 17    |reward_cashOverride                       |
+ 18    |pushed_itemId0                            |
+ 19    |pushed_itemId01                           |
+ 20    |pushed_itemId02                           |
+ 21    |pushed_itemId03                           |
+ 22    |pushed_itemId04                           |
+ 23    |pushed_itemId05                           |
+ 24    |pushed_itemCount0                         |
+ 25    |pushed_itemCount01                        |
+ 26    |pushed_itemCount02                        |
+ 27    |pushed_itemCount03                        |
+ 28    |pushed_itemCount04                        |
+ 29    |pushed_itemCount05                        |
+ 30    |objective0                                |
+ 31    |objective01                               |
+ 32    |objective02                               |
+ 33    |objective03                               |
+ 34    |objective04                               |
+ 35    |objective05                               |
+ 36    |localizedTextIdGiverTextUnknown           |
+ 37    |localizedTextIdGiverTextAccepted          |
+ 38    |localizedTextIdReceiverTextAccepted       |
+ 39    |localizedTextIdReceiverTextAchieved       |
+ 40    |localizedTextIdGiverSayAccepted           |
+ 41    |localizedTextIdReceiverSayCompleted       |
+ 42    |preq_class                                |
+ 43    |groupId                                   |
+ 44    |factionIdPreq0                            |
+ 45    |factionIdPreq01                           |
+ 46    |factionIdPreq02                           |
+ 47    |factionLevelPreq0                         |
+ 48    |factionLevelPreq01                        |
+ 49    |factionLevelPreq02                        |
+ 50    |factionLevelCompPreq0                     |
+ 51    |factionLevelCompPreq01                    |
+ 52    |factionLevelCompPreq02                    |
+ 53    |questIdExclusionPreq0                     |
+ 54    |questIdExclusionPreq1                     |
+ 55    |questIdExclusionPreq2                     |
+ 56    |localizedTextIdAcceptResponse             |
+ 57    |localizedTextIdCompleteResponse           |
+ 58    |WorldLocation2IdReceiver                  |
+ 59    |worldLocation2IdAltReceiver00             |
+ 60    |worldLocation2IdAltReceiver01             |
+ 61    |worldLocation2IdAltReceiver02             |
+ 62    |prerequisiteIdAltReceiver00               |
+ 63    |prerequisiteIdAltReceiver01               |
+ 64    |prerequisiteIdAltReceiver02               |
+ 65    |questDirectionIdAltReceiver00             |
+ 66    |questDirectionIdAltReceiver01             |
+ 67    |questDirectionIdAltReceiver02             |
+ 68    |localizedTextIdCompletedSummary           |
+ 69    |localizedTextIdGiverIncompleteResponse    |
+ 70    |localizedTextIdReceiverIncompleteResponse |
+ 71    |quest2DifficultyId                        |
+ 72    |maxTimeAllowedMS                          |
+ 73    |prerequisiteId                            |
+ 74    |questShareEnum                            |
+ 75    |subMissionPathType                        |
+ 76    |localizedTextIdCompletedObjectiveShort    |
+ 77    |quest2SubTypeId                           |
+ 78    |localizedTextIdMoreInfoSay00              |
+ 79    |localizedTextIdMoreInfoSay01              |
+ 80    |localizedTextIdMoreInfoSay02              |
+ 81    |localizedTextIdMoreInfoSay03              |
+ 82    |localizedTextIdMoreInfoSay04              |
+ 83    |localizedTextIdMoreInfoText00             |
+ 84    |localizedTextIdMoreInfoText01             |
+ 85    |localizedTextIdMoreInfoText02             |
+ 86    |localizedTextIdMoreInfoText03             |
+ 87    |localizedTextIdMoreInfoText04             |
+ 88    |virtualItemIdPushed00                     |
+ 89    |virtualItemIdPushed01                     |
+ 90    |virtualItemIdPushed02                     |
+ 91    |virtualItemIdPushed03                     |
+ 92    |virtualItemPushedCount00                  |
+ 93    |virtualItemPushedCount01                  |
+ 94    |virtualItemPushedCount02                  |
+ 95    |virtualItemPushedCount03                  |
+ 96    |virtualItemPushedObjectiveFlagsEnum00     |
+ 97    |virtualItemPushedObjectiveFlagsEnum01     |
+ 98    |virtualItemPushedObjectiveFlagsEnum02     |
+ 99    |virtualItemPushedObjectiveFlagsEnum03     |
+100    |questDirectionIdCompletion                |
+101    |faction2IdRewardReputation00              |
+102    |faction2IdRewardReputation01              |
+103    |rewardReputationOverride00                |
+104    |rewardReputationOverride01                |
+105    |questCategoryId                           |
+106    |localizedTextIdGiverSayDecline            |
+107    |periodicQuestGroupId                      |
+108    |periodicQuestWeight                       |
+109    |questRepeatPeriodEnum                     |
+110    |questContentFinderTypeEnum                |
+111    |groupSize                                 |

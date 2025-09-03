@@ -1,0 +1,10 @@
+Column |Name                       |Description            |Links to or Called in                                         |Notes
+0      |ID                         |Main ID
+1      |premiumSystemEnum          |
+2      |tier                       |
+3      |rewardPropertyId           |
+4      |rewardPropertyData         |
+5      |modifierValueInt           |
+6      |modifierValueFloat         |
+7      |entitlementIdModifierCount |
+8      |flags                      |

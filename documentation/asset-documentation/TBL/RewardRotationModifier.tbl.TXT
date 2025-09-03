@@ -1,0 +1,7 @@
+Column |Name                 |Description            |Links to or Called in                                         |Notes
+0      |ID                   |Main ID
+1      |rewardPropertyId     |
+2      |rewardPropertyData   |
+3      |value                |
+4      |minPlayerLevel       |
+5      |worldDifficultyFlags |

@@ -1,0 +1,34 @@
+Column |Name                  |Description            |Links to or Called in                                         |Notes
+ 0     |ID                    |Main ID
+ 1     |spell4EffectGroupId00 |
+ 2     |spell4EffectGroupId01 |
+ 3     |spell4EffectGroupId02 |
+ 4     |spell4EffectGroupId03 |
+ 5     |spell4EffectGroupId04 |
+ 6     |spell4EffectGroupId05 |
+ 7     |spell4EffectGroupId06 |
+ 8     |spell4EffectGroupId07 |
+ 9     |spell4EffectGroupId08 |
+10     |spell4EffectGroupId09 |
+11     |spell4EffectGroupId10 |
+12     |spell4EffectGroupId11 |
+13     |spell4EffectGroupId12 |
+14     |spell4EffectGroupId13 |
+15     |spell4EffectGroupId14 |
+16     |spell4EffectGroupId15 |
+17     |spell4EffectGroupId16 |
+18     |spell4EffectGroupId17 |
+19     |spell4EffectGroupId18 |
+20     |spell4EffectGroupId19 |
+21     |spell4EffectGroupId20 |
+22     |spell4EffectGroupId21 |
+23     |spell4EffectGroupId22 |
+24     |spell4EffectGroupId23 |
+25     |spell4EffectGroupId24 |
+26     |spell4EffectGroupId25 |
+27     |spell4EffectGroupId26 |
+28     |spell4EffectGroupId27 |
+29     |spell4EffectGroupId28 |
+30     |spell4EffectGroupId29 |
+31     |spell4EffectGroupId30 |
+32     |spell4EffectGroupId31 |

@@ -1,0 +1,32 @@
+Column |Name                              |Description            |Links to or Called in                                         |Notes
+ 0     |ID                                |Main ID
+ 1     |enumName                          |
+ 2     |localizedTextId                   |
+ 3     |localizedTextIdNameFemale         |
+ 4     |maleAssetPath                     |
+ 5     |femaleAssetPath                   |
+ 6     |hitRadius                         |
+ 7     |soundImpactDescriptionIdOrigin    |
+ 8     |soundImpactDescriptionIdTarget    |
+ 9     |walkLand                          |
+10     |walkAir                           |
+11     |walkWater                         |
+12     |walkHover                         |
+13     |unitVisualTypeIdMale              |
+14     |unitVisualTypeIdFemale            |
+15     |soundEventIdMaleHealthStart       |
+16     |soundEventIdFemaleHealthStart     |
+17     |soundEventIdMaleHealthStop        |
+18     |soundEventIdFemaleHealthStop      |
+19     |swimWaterDepth                    |
+20     |itemDisplayIdUnderwearLegsMale    |
+21     |itemDisplayIdUnderwearLegsFemale  |
+22     |itemDisplayIdUnderwearChestFemale |
+23     |itemDisplayIdArmCannon            |
+24     |mountScaleMale                    |
+25     |mountScaleFemale                  |
+26     |soundSwitchId                     |
+27     |componentLayoutIdMale             |
+28     |componentLayoutIdFemale           |
+29     |modelMeshIdMountItemMale          |
+30     |modelMeshIdMountItemFemale        |

@@ -1,0 +1,35 @@
+Column |Name                             |Description            |Links to or Called in                                         |Notes
+ 0     |ID                               |Main ID
+ 1     |targetTypeFlags                  |
+ 2     |stageType                        |
+ 3     |stageFlags                       |
+ 4     |visualEffectId                   |
+ 5     |visualEffectIdSound              |
+ 6     |modelEventIdDelay                |
+ 7     |soundEventType00                 |
+ 8     |soundEventType01                 |
+ 9     |soundEventType02                 |
+10     |soundEventType03                 |
+11     |soundEventType04                 |
+12     |soundEventType05                 |
+13     |soundImpactDescriptionIdTarget00 |
+14     |soundImpactDescriptionIdTarget01 |
+15     |soundImpactDescriptionIdTarget02 |
+16     |soundImpactDescriptionIdTarget03 |
+17     |soundImpactDescriptionIdTarget04 |
+18     |soundImpactDescriptionIdTarget05 |
+19     |soundImpactDescriptionIdOrigin00 |
+20     |soundImpactDescriptionIdOrigin01 |
+21     |soundImpactDescriptionIdOrigin02 |
+22     |soundImpactDescriptionIdOrigin03 |
+23     |soundImpactDescriptionIdOrigin04 |
+24     |soundImpactDescriptionIdOrigin05 |
+25     |modelAttachmentIdCaster          |
+26     |phaseFlags                       |
+27     |modelOffsetX                     |
+28     |modelOffsetY                     |
+29     |modelOffsetZ                     |
+30     |modelScale                       |
+31     |preDelayTimeMs                   |
+32     |telegraphDamageIdAttach          |
+33     |prerequisiteId                   |

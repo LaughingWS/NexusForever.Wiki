@@ -1,0 +1,54 @@
+Column |Name                           |Description            |Links to or Called in                                         |Notes
+ 0     |ID                             |Main ID
+ 1     |missileType                    |
+ 2     |castStage                      |
+ 3     |originUnitEnum                 |
+ 4     |targetFlags                    |
+ 5     |modelPath                      |
+ 6     |fxPath                         |
+ 7     |beamPath                       |
+ 8     |beamSource                     |
+ 9     |beamTarget                     |
+10     |itemSlot                       |
+11     |costumeSide                    |
+12     |modelAttachmentIdCaster        |
+13     |modelAttachmentIdTarget        |
+14     |clientDelay                    |
+15     |modelEventIdDelayedBy          |
+16     |flags                          |
+17     |duration                       |
+18     |frequency                      |
+19     |speedMps                       |
+20     |accMpss                        |
+21     |revolverNestedMissileInitDelay |
+22     |revolverNestedMissileSubDelay  |
+23     |spell4ClientMissileIdNested    |
+24     |revolverMissileImpactAssetPath |
+25     |missileRevolverTrackId         |
+26     |birthAnchorPath                |
+27     |deathAnchorPath                |
+28     |trajAnchorPath                 |
+29     |birthDuration                  |
+30     |birthAnchorAngleMin            |
+31     |birthAnchorAngleMax            |
+32     |deathAnchorAngleMin            |
+33     |deathAnchorAngleMax            |
+34     |deathAnchorSpace               |
+35     |itemSlotIdObj                  |
+36     |objCostumeSide                 |
+37     |trajPoseFullBlendDistance      |
+38     |trajAnchorPlaySpeed            |
+39     |parabolaHeightScale            |
+40     |rotateX                        |
+41     |rotateY                        |
+42     |rotateZ                        |
+43     |scale                          |
+44     |endScale                       |
+45     |phaseFlags                     |
+46     |telegraphDamageIdAttach        |
+47     |soundEventIdBirth              |
+48     |soundEventIdLoopStart          |
+49     |soundEventIdLoopStop           |
+50     |soundEventIdDeath              |
+51     |beamDiffuseColor               |
+52     |missileDiffuseColor            |

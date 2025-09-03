@@ -1,0 +1,15 @@
+Column |Name                        |Description            |Links to or Called in                                         |Notes
+ 0     |ID                          |Main ID
+ 1     |type                        |
+ 2     |flags                       |
+ 3     |data                        |
+ 4     |count                       |
+ 5     |localizedTextIdFull         |
+ 6     |worldLocationsIdIndicator00 |
+ 7     |worldLocationsIdIndicator01 |
+ 8     |worldLocationsIdIndicator02 |
+ 9     |worldLocationsIdIndicator03 |
+10     |maxTimeAllowedMS            |
+11     |localizedTextIdShort        |
+12     |targetGroupIdRewardPane     |
+13     |questDirectionId            |

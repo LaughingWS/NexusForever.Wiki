@@ -1,0 +1,47 @@
+Column |Name                     |Description            |Links to or Called in                                         |Notes
+ 0     |ID                       |Main ID
+ 1     |generalVOSetEnumFirst00  |
+ 2     |generalVOSetEnumFirst01  |
+ 3     |generalVOSetEnumFirst02  |
+ 4     |generalVOSetEnumFirst03  |
+ 5     |generalVOSetEnumFirst04  |
+ 6     |generalVOSetEnumFirst05  |
+ 7     |generalVOSetEnumFirst06  |
+ 8     |generalVOSetEnumFirst07  |
+ 9     |generalVOSetEnumFirst08  |
+10     |generalVOSetEnumFirst09  |
+11     |generalVOSetEnumFirst10  |
+12     |generalVOSetEnumFirst11  |
+13     |generalVOSetEnumFirst12  |
+14     |generalVOSetEnumFirst13  |
+15     |generalVOSetEnumFirst14  |
+16     |generalVOSetEnumSecond00 |
+17     |generalVOSetEnumSecond01 |
+18     |generalVOSetEnumSecond02 |
+19     |generalVOSetEnumSecond03 |
+20     |generalVOSetEnumSecond04 |
+21     |generalVOSetEnumSecond05 |
+22     |generalVOSetEnumSecond06 |
+23     |generalVOSetEnumSecond07 |
+24     |generalVOSetEnumSecond08 |
+25     |generalVOSetEnumSecond09 |
+26     |generalVOSetEnumSecond10 |
+27     |generalVOSetEnumSecond11 |
+28     |generalVOSetEnumSecond12 |
+29     |generalVOSetEnumSecond13 |
+30     |generalVOSetEnumSecond14 |
+31     |localizedTextId00        |
+32     |localizedTextId01        |
+33     |localizedTextId02        |
+34     |localizedTextId03        |
+35     |localizedTextId04        |
+36     |localizedTextId05        |
+37     |localizedTextId06        |
+38     |localizedTextId07        |
+39     |localizedTextId08        |
+40     |localizedTextId09        |
+41     |localizedTextId10        |
+42     |localizedTextId11        |
+43     |localizedTextId12        |
+44     |localizedTextId13        |
+45     |localizedTextId14        |

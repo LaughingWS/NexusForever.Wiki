@@ -1,0 +1,7 @@
+Column |Name                    |Description            |Links to or Called in                                         |Notes
+0      |ID                      |Main ID
+1      |publicEventTypeEnum     |
+2      |publicEventId           |
+3      |statIndex               |
+4      |localizedTextIdStatName |
+5      |iconPath                |

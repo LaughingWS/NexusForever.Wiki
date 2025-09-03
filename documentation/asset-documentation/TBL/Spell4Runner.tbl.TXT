@@ -1,0 +1,8 @@
+Column |Name       |Description            |Links to or Called in                                         |Notes
+0      |ID         |Main ID
+1      |spriteName |
+2      |redTint    |
+3      |greenTint  |
+4      |blueTint   |
+5      |alphaTint  |
+6      |rate       |

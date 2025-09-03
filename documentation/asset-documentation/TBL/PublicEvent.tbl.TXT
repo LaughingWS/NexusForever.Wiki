@@ -1,0 +1,14 @@
+Column |Name                    |Description            |Links to or Called in                                         |Notes
+ 0     |ID                      |Main ID
+ 1     |worldId                 |
+ 2     |worldZoneId             |
+ 3     |localizedTextIdName     |
+ 4     |failureTimeMs           |
+ 5     |worldLocation2Id        |
+ 6     |publicEventTypeEnum     |
+ 7     |publicEventIdParent     |
+ 8     |minPlayerLevel          |
+ 9     |liveEventIdLifetime     |
+10     |publicEventFlags        |
+11     |localizedTextIdEnd      |
+12     |rewardRotationContentId |

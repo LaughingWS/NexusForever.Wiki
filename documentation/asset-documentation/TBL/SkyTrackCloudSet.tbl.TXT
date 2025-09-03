@@ -1,0 +1,39 @@
+Column |Name      |Description            |Links to or Called in                                         |Notes
+ 0     |ID        |Main ID
+ 1     |count     |
+ 2     |minSize00 |
+ 3     |minSize01 |
+ 4     |minSize02 |
+ 5     |minSize03 |
+ 6     |minSize04 |
+ 7     |minSize05 |
+ 8     |minSize06 |
+ 9     |minSize07 |
+10     |minSize08 |
+11     |minSize09 |
+12     |minSize10 |
+13     |minSize11 |
+14     |maxSize00 |
+15     |maxSize01 |
+16     |maxSize02 |
+17     |maxSize03 |
+18     |maxSize04 |
+19     |maxSize05 |
+20     |maxSize06 |
+21     |maxSize07 |
+22     |maxSize08 |
+23     |maxSize09 |
+24     |maxSize10 |
+25     |maxSize11 |
+26     |model00   |
+27     |model01   |
+28     |model02   |
+29     |model03   |
+30     |model04   |
+31     |model05   |
+32     |model06   |
+33     |model07   |
+34     |model08   |
+35     |model09   |
+36     |model10   |
+37     |model11   |

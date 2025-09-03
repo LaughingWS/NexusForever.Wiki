@@ -1,0 +1,39 @@
+Column |Name                        |Description            |Links to or Called in                                         |Notes
+ 0     |ID                          |Main ID
+ 1     |spell4VisualIdVisual00      |
+ 2     |spell4VisualIdVisual01      |
+ 3     |spell4VisualIdVisual02      |
+ 4     |spell4VisualIdVisual03      |
+ 5     |spell4VisualIdVisual04      |
+ 6     |spell4VisualIdVisual05      |
+ 7     |spell4VisualIdVisual06      |
+ 8     |spell4VisualIdVisual07      |
+ 9     |spell4VisualIdVisual08      |
+10     |spell4VisualIdVisual09      |
+11     |spell4VisualIdVisual10      |
+12     |spell4VisualIdVisual11      |
+13     |spell4VisualIdVisual12      |
+14     |spell4VisualIdVisual13      |
+15     |spell4VisualIdVisual14      |
+16     |spell4VisualIdVisual15      |
+17     |spell4VisualIdVisual16      |
+18     |spell4VisualIdVisual17      |
+19     |spell4VisualIdVisual18      |
+20     |spell4VisualIdVisual19      |
+21     |spell4VisualIdVisual20      |
+22     |spell4VisualIdVisual21      |
+23     |spell4VisualIdVisual22      |
+24     |spell4VisualIdVisual23      |
+25     |spell4VisualIdVisual24      |
+26     |spell4VisualIdVisual25      |
+27     |spell4VisualIdVisual26      |
+28     |spell4VisualIdVisual27      |
+29     |spell4VisualIdVisual28      |
+30     |spell4VisualIdVisual29      |
+31     |spell4VisualIdVisual30      |
+32     |spell4VisualIdVisual31      |
+33     |spell4VisualIdVisual32      |
+34     |spell4VisualIdVisual33      |
+35     |spell4VisualIdVisual34      |
+36     |spell4VisualIdVisual35      |
+37     |visualEffectIdPrimaryCaster |

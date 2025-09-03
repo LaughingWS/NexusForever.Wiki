@@ -1,0 +1,15 @@
+Column |Name          |Description            |Links to or Called in                                         |Notes
+ 0     |ID            |Main ID
+ 1     |name          |
+ 2     |hash          |
+ 3     |radius        |
+ 4     |soundBankId00 |
+ 5     |soundBankId01 |
+ 6     |soundBankId02 |
+ 7     |soundBankId03 |
+ 8     |soundBankId04 |
+ 9     |soundBankId05 |
+10     |soundBankId06 |
+11     |soundBankId07 |
+12     |flags         |
+13     |limitPriority |

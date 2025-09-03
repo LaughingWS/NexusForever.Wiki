@@ -1,0 +1,6 @@
+Column |Name                       |Description            |Links to or Called in                                         |Notes
+0      |ID                         |Main ID
+1      |enumName                   |
+2      |combatMessageTypeEnum      |
+3      |localizedTextIdDisplayText |
+4      |soundEventId               |

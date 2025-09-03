@@ -1,0 +1,34 @@
+Column |Name           |Description            |Links to or Called in                                         |Notes
+ 0     |ID             |Main ID
+ 1     |spellGroupId00 |
+ 2     |spellGroupId01 |
+ 3     |spellGroupId02 |
+ 4     |spellGroupId03 |
+ 5     |spellGroupId04 |
+ 6     |spellGroupId05 |
+ 7     |spellGroupId06 |
+ 8     |spellGroupId07 |
+ 9     |spellGroupId08 |
+10     |spellGroupId09 |
+11     |spellGroupId10 |
+12     |spellGroupId11 |
+13     |spellGroupId12 |
+14     |spellGroupId13 |
+15     |spellGroupId14 |
+16     |spellGroupId15 |
+17     |spellGroupId16 |
+18     |spellGroupId17 |
+19     |spellGroupId18 |
+20     |spellGroupId19 |
+21     |spellGroupId20 |
+22     |spellGroupId21 |
+23     |spellGroupId22 |
+24     |spellGroupId23 |
+25     |spellGroupId24 |
+26     |spellGroupId25 |
+27     |spellGroupId26 |
+28     |spellGroupId27 |
+29     |spellGroupId28 |
+30     |spellGroupId29 |
+31     |spellGroupId30 |
+32     |spellGroupId31 |

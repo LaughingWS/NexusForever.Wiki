@@ -1,0 +1,10 @@
+Column |Name                       |Description            |Links to or Called in                                         |Notes
+0      |ID                         |Main ID
+1      |resourceConversionTypeEnum |
+2      |sourceId                   |
+3      |sourceCount                |
+4      |targetId                   |
+5      |targetCount                |
+6      |surchargeId                |
+7      |surchargeCount             |
+8      |flags                      |

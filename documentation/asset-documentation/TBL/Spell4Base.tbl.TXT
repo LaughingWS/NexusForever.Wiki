@@ -1,0 +1,43 @@
+Column |Name                          |Description            |Links to or Called in                                         |Notes
+ 0     |ID                            |Main ID
+ 1     |localizedTextIdName           |
+ 2     |spell4HitResultId             |
+ 3     |spell4TargetMechanicId        |
+ 4     |spell4TargetAngleId           |
+ 5     |spell4PrerequisiteId          |
+ 6     |spell4ValidTargetId           |
+ 7     |targetGroupIdCastGroup        |
+ 8     |creature2IdPositionalAoe      |
+ 9     |parameterAEAngle              |
+10     |parameterAEMaxAngle           |
+11     |parameterAEDistance           |
+12     |parameterAEMaxDistance        |
+13     |targetGroupIdAoeGroup         |
+14     |spell4BaseIdPrerequisiteSpell |
+15     |worldZoneIdZoneRequired       |
+16     |spell4SpellTypesIdSpellType   |
+17     |icon                          |
+18     |castMethod                    |
+19     |school                        |
+20     |spellClass                    |
+21     |weaponSlot                    |
+22     |castBarType                   |
+23     |mechanicAggressionMagnitude   |
+24     |mechanicDominationMagnitude   |
+25     |modelSequencePriorityCaster   |
+26     |modelSequencePriorityTarget   |
+27     |classIdPlayer                 |
+28     |clientSideInteractionId       |
+29     |targetingFlags                |
+30     |telegraphFlagsEnum            |
+31     |localizedTextIdLASTierPoint   |
+32     |lasTierPointTooltipData00     |
+33     |lasTierPointTooltipData01     |
+34     |lasTierPointTooltipData02     |
+35     |lasTierPointTooltipData03     |
+36     |lasTierPointTooltipData04     |
+37     |lasTierPointTooltipData05     |
+38     |lasTierPointTooltipData06     |
+39     |lasTierPointTooltipData07     |
+40     |lasTierPointTooltipData08     |
+41     |lasTierPointTooltipData09     |

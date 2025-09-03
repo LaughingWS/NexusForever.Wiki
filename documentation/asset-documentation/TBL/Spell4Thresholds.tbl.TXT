@@ -1,0 +1,13 @@
+Column |Name                   |Description            |Links to or Called in                                         |Notes
+ 0     |ID                     |Main ID
+ 1     |spell4IdParent         |
+ 2     |spell4IdToCast         |
+ 3     |orderIndex             |
+ 4     |thresholdDuration      |
+ 5     |vitalEnumCostType00    |
+ 6     |vitalEnumCostType01    |
+ 7     |vitalCostValue00       |
+ 8     |vitalCostValue01       |
+ 9     |localizedTextIdTooltip |
+10     |iconReplacement        |
+11     |visualEffectId         |

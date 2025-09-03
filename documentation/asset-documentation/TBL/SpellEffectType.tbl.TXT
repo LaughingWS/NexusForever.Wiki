@@ -1,0 +1,13 @@
+Column |Name       |Description            |Links to or Called in                                         |Notes
+ 0     |ID         |Main ID
+ 1     |flags      |
+ 2     |dataType00 |
+ 3     |dataType01 |
+ 4     |dataType02 |
+ 5     |dataType03 |
+ 6     |dataType04 |
+ 7     |dataType05 |
+ 8     |dataType06 |
+ 9     |dataType07 |
+10     |dataType08 |
+11     |dataType09 |

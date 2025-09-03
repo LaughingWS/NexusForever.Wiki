@@ -1,0 +1,5 @@
+Column |Name            |Description            |Links to or Called in                                         |Notes
+0      |ID              |Main ID
+1      |publicEventId   |
+2      |unitProperty2Id |
+3      |scalar          |

@@ -1,0 +1,8 @@
+Column |Name                 |Description            |Links to or Called in                                         |Notes
+0      |ID                   |Main ID
+1      |rewardItemTypeEnum   |
+2      |rewardItemObject     |
+3      |count                |
+4      |iconPath             |
+5      |minPlayerLevel       |
+6      |worldDifficultyFlags |
