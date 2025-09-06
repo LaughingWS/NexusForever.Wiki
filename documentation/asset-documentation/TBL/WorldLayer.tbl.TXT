@@ -1,0 +1,21 @@
+Column |Name                 |Description            |Links to or Called in                                         |Notes
+ 0     |ID                   |Main ID
+ 1     |Description          |
+ 2     |HeightScale          |
+ 3     |HeightOffset         |
+ 4     |ParallaxScale        |
+ 5     |ParallaxOffset       |
+ 6     |MetersPerTextureTile |
+ 7     |ColorMapPath         |
+ 8     |NormalMapPath        |
+ 9     |AverageColor         |
+10     |Projection           |
+11     |materialType         |
+12     |worldClutterId00     |
+13     |worldClutterId01     |
+14     |worldClutterId02     |
+15     |worldClutterId03     |
+16     |specularPower        |
+17     |emissiveGlow         |
+18     |scrollSpeed00        |
+19     |scrollSpeed01        |

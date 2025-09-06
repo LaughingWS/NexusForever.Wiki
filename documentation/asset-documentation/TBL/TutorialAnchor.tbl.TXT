@@ -1,0 +1,6 @@
+Column |Name                          |Description            |Links to or Called in                                         |Notes
+0      |ID                            |Main ID
+1      |tutorialAnchorOrientationEnum |
+2      |hOffset                       |
+3      |vOffset                       |
+4      |flags                         |

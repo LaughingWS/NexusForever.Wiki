@@ -1,0 +1,47 @@
+Column |Name           |Description            |Links to or Called in                                         |Notes
+ 0     |ID             |Main ID
+ 1     |Description    |
+ 2     |density        |
+ 3     |clutterFlags   |
+ 4     |assetPath0     |
+ 5     |assetPath01    |
+ 6     |assetPath02    |
+ 7     |assetPath03    |
+ 8     |assetPath04    |
+ 9     |assetPath05    |
+10     |assetWeight0   |
+11     |assetWeight01  |
+12     |assetWeight02  |
+13     |assetWeight03  |
+14     |assetWeight04  |
+15     |assetWeight05  |
+16     |flag0          |
+17     |flag01         |
+18     |flag02         |
+19     |flag03         |
+20     |flag04         |
+21     |flag05         |
+22     |minScale0      |
+23     |minScale01     |
+24     |minScale02     |
+25     |minScale03     |
+26     |minScale04     |
+27     |minScale05     |
+28     |rotationMin0   |
+29     |rotationMin01  |
+30     |rotationMin02  | 
+31     |rotationMin03  |
+32     |rotationMin04  |
+33     |rotationMin05  |
+34     |rotationMax0   |
+35     |rotationMax01  |
+36     |rotationMax02  |
+37     |rotationMax03  |
+38     |rotationMax04  |
+39     |rotationMax05  |
+40     |emissiveGlow00 |
+41     |emissiveGlow01 |
+42     |emissiveGlow02 |
+43     |emissiveGlow03 |
+44     |emissiveGlow04 |
+45     |emissiveGlow05 |

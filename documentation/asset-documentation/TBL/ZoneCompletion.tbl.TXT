@@ -1,0 +1,11 @@
+Column |Name                      |Description            |Links to or Called in                                         |Notes
+0      |ID                        |Main ID
+1      |mapZoneId                 |
+2      |zoneCompletionFactionEnum |
+3      |episodeQuestCount         |
+4      |taskQuestCount            |
+5      |challengeCount            |
+6      |datacubeCount             |
+7      |taleCount                 |
+8      |journalCount              |
+9      |characterTitleIdReward    |

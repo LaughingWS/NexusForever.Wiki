@@ -1,0 +1,39 @@
+Column |Name                    |Description            |Links to or Called in                                         |Notes
+ 0     |ID                      |Main ID
+ 1     |visualType              |
+ 2     |startDelay              |
+ 3     |duration                |
+ 4     |modelItemSlot           |
+ 5     |modelItemCostumeSide    |
+ 6     |modelAssetPath          |
+ 7     |modelAttachmentId       |
+ 8     |modelSequencePriority   |
+ 9     |modelSequenceIdTarget00 |
+10     |modelSequenceIdTarget01 |
+11     |modelSequenceIdTarget02 |
+12     |modelScale              |
+13     |modelRotationX          |
+14     |modelRotationY          |
+15     |modelRotationZ          |
+16     |data00                  |
+17     |data01                  |
+18     |data02                  |
+19     |data03                  |
+20     |data04                  |
+21     |flags                   |
+22     |soundEventId00          |
+23     |soundEventId01          |
+24     |soundEventId02          |
+25     |soundEventId03          |
+26     |soundEventId04          |
+27     |soundEventId05          |
+28     |soundEventOffset00      |
+29     |soundEventOffset01      |
+30     |soundEventOffset02      |
+31     |soundEventOffset03      |
+32     |soundEventOffset04      |
+33     |soundEventOffset05      |
+34     |soundEventIdStop        |
+35     |soundZoneKitId          |
+36     |prerequisiteId          |
+37     |particleDiffuseColor    |

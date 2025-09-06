@@ -1,0 +1,10 @@
+Column |Name                |Description            |Links to or Called in                                         |Notes
+0      |ID                  |Main ID
+1      |tradeSkillId        |
+2      |pointsToUnlock      |
+3      |respecCost          |
+4      |tradeSkillBonusId00 |
+5      |tradeSkillBonusId01 |
+6      |tradeSkillBonusId02 |
+7      |tradeSkillBonusId03 |
+8      |tradeSkillBonusId04 |

@@ -1,0 +1,20 @@
+Column |Name                    |Description            |Links to or Called in                                         |Notes
+ 0     |ID                      |Main ID
+ 1     |assetPath               |
+ 2     |flags                   |
+ 3     |type                    |
+ 4     |screenPath              |
+ 5     |screenModelPath         |
+ 6     |chunkBounds00           |
+ 7     |chunkBounds01           |
+ 8     |chunkBounds02           |
+ 9     |chunkBounds03           |
+10     |plugAverageHeight       |
+11     |localizedTextIdName     |
+12     |minItemLevel            |
+13     |maxItemLevel            |
+14     |primeLevelOffset        |
+15     |primeLevelMax           |
+16     |veteranTierScalingType  |
+17     |heroismMenaceLevel      |
+18     |rewardRotationContentId |

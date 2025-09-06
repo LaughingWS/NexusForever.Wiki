@@ -1,0 +1,16 @@
+Column |Name               |Description            |Links to or Called in                                         |Notes
+ 0     |ID                 |Main ID
+ 1     |type               |
+ 2     |duration           |
+ 3     |radiusEnd          |
+ 4     |direction          |
+ 5     |directionDelta     |
+ 6     |blendIn            |
+ 7     |blendOut           |
+ 8     |speed              |
+ 9     |sine2DMagnitudeMin |
+10     |sine2DMagnitudeMax |
+11     |sine2DFrequency    |
+12     |sine2DOffsetAngle  |
+13     |localRadial        |
+14     |localMagnitude     |

@@ -1,0 +1,19 @@
+Column |Name                 |Description            |Links to or Called in                                         |Notes
+ 0     |ID                   |Main ID
+ 1     |flags                |
+ 2     |colorTexture         |
+ 3     |normalTexture        |
+ 4     |distortionTexture    |
+ 5     |durationMin          |
+ 6     |durationMax          |
+ 7     |scaleStart           |
+ 8     |scaleEnd             |
+ 9     |alphaStart           |
+10     |alphaEnd             |
+11     |distortionWeight     |
+12     |distortionScaleStart |
+13     |distortionScaleEnd   |
+14     |distortionSpeedU     |
+15     |distortionSpeedV     |
+16     |positionOffsetX      |
+17     |positionOffsetY      |

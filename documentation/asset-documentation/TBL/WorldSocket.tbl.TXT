@@ -1,0 +1,8 @@
+Column |Name          |Description            |Links to or Called in                                         |Notes
+0      |ID            |Main ID
+1      |worldId       |
+2      |bounds0       |
+3      |bounds1       |
+4      |bounds2       |
+5      |bounds3       |
+6      |averageHeight |

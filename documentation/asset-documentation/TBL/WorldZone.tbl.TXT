@@ -1,0 +1,11 @@
+Column |Name                    |Description            |Links to or Called in                                         |Notes
+0      |ID                      |Main ID
+1      |localizedTextIdName     |
+2      |parentZoneId            |
+3      |allowAccess             |
+4      |color                   |
+5      |soundZoneKitId          |
+6      |worldLocation2IdExit    |
+7      |flags                   |
+8      |zonePvpRulesEnum        |
+9      |rewardRotationContentId |

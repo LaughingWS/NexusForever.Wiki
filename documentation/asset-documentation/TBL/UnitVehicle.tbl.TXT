@@ -1,0 +1,31 @@
+Column |Name                         |Description            |Links to or Called in                                         |Notes
+ 0     |ID                           |Main ID
+ 1     |vehicleTypeEnum              |
+ 2     |numberPilots                 |
+ 3     |pilotPosture00               |
+ 4     |pilotPosture01               |
+ 5     |numberPassengers             |
+ 6     |passengerPosture00           |
+ 7     |passengerPosture01           |
+ 8     |passengerPosture02           |
+ 9     |passengerPosture03           |
+10     |passengerPosture04           |
+11     |passengerPosture05           |
+12     |numberGunners                |
+13     |gunnerPosture00              |
+14     |gunnerPosture01              |
+15     |gunnerPosture02              |
+16     |gunnerPosture03              |
+17     |gunnerPosture04              |
+18     |gunnerPosture05              |
+19     |vendorItemPrice              |
+20     |localizedTextIdName          |
+21     |localizedTextIdTooltip       |
+22     |buttonIcon                   |
+23     |flags                        |
+24     |soundEventIdTakeoff          |
+25     |soundEventIdLanding          |
+26     |waterSurfaceEffectIdMoving   |
+27     |waterSurfaceEffectIdStanding |
+28     |waterSurfaceEffectIdJumpIn   |
+29     |waterSurfaceEffectIdJumpOut  |

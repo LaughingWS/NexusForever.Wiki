@@ -1,0 +1,14 @@
+Column |Name                |Description            |Links to or Called in                                         |Notes
+ 0     |ID                  |Main ID
+ 1     |radius              |
+ 2     |maxVerticalDistance |
+ 3     |position0           |
+ 4     |position1           |
+ 5     |position2           |
+ 6     |facing0             |
+ 7     |facing1             |
+ 8     |facing2             |
+ 9     |facing3             |
+10     |worldId             |
+11     |worldZoneId         |
+12     |phases              |

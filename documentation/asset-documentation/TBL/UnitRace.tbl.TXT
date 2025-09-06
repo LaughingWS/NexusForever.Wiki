@@ -1,0 +1,9 @@
+Column |Name                           |Description            |Links to or Called in                                         |Notes
+0      |ID                             |Main ID
+1      |soundImpactDescriptionIdOrigin |
+2      |soundImpactDescriptionIdTarget |
+3      |unitVisualTypeId               |
+4      |soundEventIdAggro              |
+5      |soundEventIdAware              |
+6      |soundSwitchIdModel             |
+7      |soundCombatLoopId              |

@@ -1,0 +1,13 @@
+Column |Name                  |Description            |Links to or Called in                                         |Notes
+ 0     |ID                    |Main ID
+ 1     |tutorialId            |
+ 2     |page                  |
+ 3     |tutorialLayoutId      |
+ 4     |localizedTextIdTitle  |
+ 5     |localizedTextIdBody00 |
+ 6     |localizedTextIdBody01 |
+ 7     |localizedTextIdBody02 |
+ 8     |sprite00              |
+ 9     |sprite01              |
+10     |sprite02              |
+11     |soundEventId          |

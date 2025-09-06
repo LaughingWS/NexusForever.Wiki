@@ -1,0 +1,14 @@
+Column |Name                  |Description            |Links to or Called in                                         |Notes
+ 0     |ID                    |Main ID
+ 1     |tradeSkillId          |
+ 2     |tier                  |
+ 3     |requiredXp            |
+ 4     |learnXp               |
+ 5     |craftXp               |
+ 6     |firstCraftXp          |
+ 7     |questXp               |
+ 8     |failXp                |
+ 9     |itemLevelMin          |
+10     |maxAdditives          |
+11     |relearnCost           |
+12     |achievementCategoryId |

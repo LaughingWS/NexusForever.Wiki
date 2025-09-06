@@ -1,0 +1,11 @@
+Column |Name          |Description            |Links to or Called in                                         |Notes
+0      |ID            |Main ID
+1      |fogStart      |
+2      |fogEnd        |
+3      |fogStartUW    |
+4      |fogEndUW      |
+5      |modStart      |
+6      |modEnd        |
+7      |modStartUW    |
+8      |modEndUW      |
+9      |skyColorIndex |

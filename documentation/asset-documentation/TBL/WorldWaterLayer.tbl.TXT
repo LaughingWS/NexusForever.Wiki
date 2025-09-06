@@ -1,0 +1,16 @@
+Column |Name                |Description            |Links to or Called in                                         |Notes
+ 0     |ID                  |Main ID
+ 1     |description         |
+ 2     |RippleColorTex      |
+ 3     |RippleNormalTex     |
+ 4     |Scale               |
+ 5     |Rotation            |
+ 6     |Speed               |
+ 7     |OscFrequency        |
+ 8     |OscMagnitude        |
+ 9     |OscRotation         |
+10     |OscPhase            |
+11     |OscMinLayerWeight   |
+12     |OscMaxLayerWeight   |
+13     |OscLayerWeightPhase |
+14     |materialBlend       |

@@ -1,0 +1,9 @@
+Column |Name                        |Description            |Links to or Called in                                         |Notes
+0      |ID                          |Main ID
+1      |emissionDelay               |
+2      |worldWaterWakeIdStillWater0 |
+3      |worldWaterWakeIdStillWater1 |
+4      |visualEffectIdParticle0     |
+5      |visualEffectIdParticle1     |
+6      |particleFlags0              |
+7      |particleFlags1              |
