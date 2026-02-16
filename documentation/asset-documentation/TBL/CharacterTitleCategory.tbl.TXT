@@ -1,3 +1,9 @@
-Column |Name            |Description            |Links to or Called in                                         |Notes
-0      |ID              |
-1      |localizedTextId |
+Column |Name            |Description |Links to                                                      |Called in |Notes
+0      |ID              |            |                                                              |          |
+1      |localizedTextId |Text name   |Language packs: en-US.bin, fr-FR.bin, and de-DE.bin: Column 0 |          |
+---------------------------------------------------------------------------------------------------------------------
+Enum table
+Column Name|ID|Meaning|Notes
+---------------------------------------------------------------------------------------------------------------------
+Flag table
+Column Name|ID|Meaning|Notes

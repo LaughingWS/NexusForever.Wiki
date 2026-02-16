@@ -1,4 +1,10 @@
-Column |Name        |Description            |Links to or Called in                                         |Notes
-0      |ID          |Main ID
-1      |creature2Id |
-2      |item2Id     |
+Column |Name        |Description                          |Links to                |Called in |Notes
+0      |ID          |Main ID                              |                        |          |
+1      |creature2Id |ID of the Creature2 entity           |Creature2.tbl: Column 0 |          |
+2      |item2Id     |ID of the item that is dropped here? |Item2.tbl: Column 0     |          |
+----------------------------------------------------------------------------------------------------
+Enum table
+Column Name|ID|Meaning|Notes
+----------------------------------------------------------------------------------------------------
+Flag table
+Column Name|ID|Meaning|Notes

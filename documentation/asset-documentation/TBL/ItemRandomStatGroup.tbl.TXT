@@ -1,3 +1,9 @@
-Column |Name                |Description            |Links to or Called in                                         |Notes
-0      |ID                  |
-1      |localizedTextIdName |
+Column |Name                |Description       |Links to  |Called in |Notes
+0      |ID                  |Main ID           |          |          |
+1      |localizedTextIdName |Localized Text Id |          |          |Everything is 0
+-------------------------------------------------------------------------------------
+Enum table
+Column Name|ID|Meaning|Notes
+-------------------------------------------------------------------------------------
+Flag table
+Column Name|ID|Meaning|Notes

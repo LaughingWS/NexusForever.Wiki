@@ -1,29 +1,44 @@
-Column |Name                       |Description            |Links to or Called in                                         |Notes
- 0     |ID                         |                       |                                                              |
- 1     |classId                    |
- 2     |raceId                     |
- 3     |sex                        |
- 4     |factionId                  |
- 5     |costumeOnly                |
- 6     |itemId0                    |
- 7     |itemId01                   |
- 8     |itemId02                   |
- 9     |itemId03                   |
-10     |itemId04                   | 
-11     |itemId05                   |
-12     |itemId06                   |
-13     |itemId07                   |
-14     |itemId08                   |
-15     |itemId09                   |
-16     |itemId010                  |
-17     |itemId011                  |
-18     |itemId012                  |
-19     |itemId013                  |
-20     |itemId014                  |
-21     |itemId015                  |
-22     |enabled                    |
-23     |characterCreationStartEnum |
-24     |xp                         |
-25     |accountCurrencyTypeIdCost  |
-26     |accountCurrencyAmountCost  |
-27     |entitlementIdRequired      |
+Column |Name                       |Description                                                 |Links to                          |Called in |Notes
+ 0     |ID                         |                                                            |                                  |          |
+ 1     |classId                    |ID of the Class                                             |Class.tbl: Column 0               |          |
+ 2     |raceId                     |ID of the Race                                              |Race.tbl: Column 0                |          |
+ 3     |sex                        |Character's sex                                             |                                  |          |
+ 4     |factionId                  |ID of the Faction                                           |Faction.tbl: Column 0             |          |
+ 5     |costumeOnly                |Costume Only creation?                                      |                                  |          |
+ 6     |itemId0                    |Item ID of item given: Legs/loot bag (Character boost)      |Item2.tbl: Column 0               |          |
+ 7     |itemId01                   |Item ID of item given: Chest/14 slot bag (Character boost)  |Item2.tbl: Column 0               |          |
+ 8     |itemId02                   |Item ID of item given: Feet/14 slot bag (Character boost)   |Item2.tbl: Column 0               |          |
+ 9     |itemId03                   |Item ID of item given: Shield/14 slot bag (Character boost) |Item2.tbl: Column 0               |          |
+10     |itemId04                   |Item ID of item given: Weapon/Chest (Character boost)       |Item2.tbl: Column 0               |          |
+11     |itemId05                   |Item ID of item given: Hands/Legs (Character boost)         |Item2.tbl: Column 0               |          |
+12     |itemId06                   |Item ID of item given: Shoulder/Head (Character boost)      |Item2.tbl: Column 0               |          |
+13     |itemId07                   |Item ID of item given: Shoulder (Character boost)           |Item2.tbl: Column 0               |          |
+14     |itemId08                   |Item ID of item given: Feet (Character boost)               |Item2.tbl: Column 0               |          |
+15     |itemId09                   |Item ID of item given: Hands (Character boost)              |Item2.tbl: Column 0               |          |
+16     |itemId010                  |Item ID of item given: Weapon Attachment (Character boost)  |Item2.tbl: Column 0               |          |
+17     |itemId011                  |Item ID of item given: Support System (Character boost)     |Item2.tbl: Column 0               |          |
+18     |itemId012                  |Item ID of item given: Implant (Character boost)            |Item2.tbl: Column 0               |          |
+19     |itemId013                  |Item ID of item given: Gadget (Character boost)             |Item2.tbl: Column 0               |          |
+20     |itemId014                  |Item ID of item given: Shield (Character boost)             |Item2.tbl: Column 0               |          |
+21     |itemId015                  |Item ID of item given: Weapon (Character boost)             |Item2.tbl: Column 0               |          |
+22     |enabled                    |Can you make this combo?                                    |                                  |          |
+23     |characterCreationStartEnum |What creation type is the Character                         |                                  |          |
+24     |xp                         |XP given when character is made, this is based on StartEnum |                                  |          |
+25     |accountCurrencyTypeIdCost  |ID of Account Currency to take when making this character   |AccountCurrencyType.tbl: Column 0 |          |
+26     |accountCurrencyAmountCost  |Account Currency Cost to make this character                |                                  |          |
+27     |entitlementIdRequired      |ID of Entitlement required to make this class/race combo    |Entitlement.tbl: Column 0         |          |
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Enum table
+Column Name               |ID|Meaning        |Notes
+sex                       |0 |Male           |
+sex                       |1 |Female         |
+characterCreationStartEnum|0 |Not enabled    |
+characterCreationStartEnum|1 |               |Gives 936310 xp, or 1710 xp, Need to understand this more
+characterCreationStartEnum|2 |               |Unknown meaning
+characterCreationStartEnum|3 |Veteran        |
+characterCreationStartEnum|4 |Novice         |
+characterCreationStartEnum|5 |Character Boost|
+characterCreationStartEnum|99|               |Unknown meaning
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Flag table
+Column Name|ID|Meaning|Notes

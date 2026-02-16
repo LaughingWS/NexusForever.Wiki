@@ -1,3 +1,9 @@
-Column |Name       |Description            |Links to or Called in                                         |Notes
-0      |ID         |
-1      |decorLimit |
+Column |Name       |Description                                        |Links to |Called in |Notes
+0      |ID         |Category ID                                        |         |          |
+1      |decorLimit |Limit of items in this category that can be placed |         |          |
+--------------------------------------------------------------------------------------------------
+Enum table
+Column Name|ID|Meaning|Notes
+--------------------------------------------------------------------------------------------------
+Flag table
+Column Name|ID|Meaning|Notes

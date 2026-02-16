@@ -1,5 +1,11 @@
-Column |Name            |Description            |Links to                                                      |Called in |Enum/Flag meanings|Notes
-0      |ID              |Main ID                |                                                              |          |                  |
-1      |localizedTextId |Name displayed in game |Language packs: en-US.bin, fr-FR.bin, and de-DE.bin: Column 0 |          |                  |
-2      |iconName        |Asset displayed        |Client folder: UI\Icon\Windows, UI\Icon\Item\Misc             |          |                  |Some files hiding in UI\Icon\Windows\16x16
-3      |accountItemId   |Account Item ID        |AccountItem: Column 0                                         |          |                  |
+Column |Name            |Description            |Links to                                                      |Called in |Notes
+0      |ID              |Main ID                |                                                              |          |
+1      |localizedTextId |Name displayed in game |Language packs: en-US.bin, fr-FR.bin, and de-DE.bin: Column 0 |          |
+2      |iconName        |Asset displayed        |Client folder: UI\Icon\Windows, UI\Icon\Item\Misc             |          |Some files hiding in UI\Icon\Windows\16x16
+3      |accountItemId   |Account Item ID        |AccountItem: Column 0                                         |          |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Enum table
+Column Name|ID|Meaning|Notes
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Flag table
+Column Name|ID |Meaning|Notes

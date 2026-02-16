@@ -1,3 +1,9 @@
-Column |Name |Description            |Links to or Called in                                         |Notes
-0      |ID   |Main ID
-1      |name |
+Column |Name |Description                        |Links to                   |Called in |Notes
+0      |ID   |Main ID                            |                           |          |
+1      |name |Name of the BNK file in the client |Client files: Audio folder |          |6 of them are inside the Language folder
+---------------------------------------------------------------------------------------------------------------------------------
+Enum table
+Column Name|ID|Meaning|Notes
+---------------------------------------------------------------------------------------------------------------------------------
+Flag table
+Column Name|ID|Meaning|Notes
